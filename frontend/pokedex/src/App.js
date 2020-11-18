@@ -1,17 +1,26 @@
-import React from 'react';
+import React, { useState } from 'react';
 import logo from './elephant.png';
 import './App.css';
 
 function App() {
   const [response, setResponse] = useState("")
+  //makes an api call with the query as a parameter
   const callAPI = (query) => {
-    fetch(`http://localhost:9000/${query}`)
+    fetch(`http://localhost:3000/${query}`)
       .then(res => res.text())
-      .then(res =)
+      .then(res => {
+        setResponse(res)
+        alert(res)
+      })
+  }
+
+  const getGame = () => {
+    let query = "games"
+    callAPI(query)
   }
   return (
     <div className="App">
-      <h1>hello world</h1>
+      <button onClick={getGame}>Get Game List</button>
     </div>
   );
 }
