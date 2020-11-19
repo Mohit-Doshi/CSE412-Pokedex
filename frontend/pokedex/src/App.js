@@ -1,24 +1,27 @@
-import React from 'react';
+import React, { useState } from 'react';
 import logo from './elephant.png';
 import './App.css';
 
 function App() {
+  const [response, setResponse] = useState("")
+  //makes an api call with the query as a parameter
+  const callAPI = (query) => {
+    fetch(`http://localhost:3001/${query}`)
+      .then(res => res.text())
+      .then(res => {
+        setResponse(res)
+        alert(res)
+      })
+  }
+
+  const getGame = () => {
+    let query = "games"
+    callAPI(query)
+  }
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <button onClick={getGame}>Get Game List</button>
     </div>
   );
 }
