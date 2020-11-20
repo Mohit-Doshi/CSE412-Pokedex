@@ -5,8 +5,8 @@ const db = require('../db')
 router.get('/', (req, res) => {
     db.any("SELECT * FROM pokemon")
         .then(rows => {
-            console.log(rows.slice(0,10))
-            res.json(rows.slice(0,10));
+            console.log(rows.slice(0,100))
+            res.json(rows.slice(0,100));
         })
         .catch(error => {
             console.log(error)
