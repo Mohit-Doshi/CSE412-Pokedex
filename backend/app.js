@@ -8,7 +8,8 @@ var cors = require("cors");
 
 //Initialize Routes HERE//
 var indexRouter = require('./routes/index');
-var gamesRouter = require('./routes/games')
+var gamesRouter = require('./routes/games');
+var pokemonRouter = require("./routes/pokemon");
 
 var app = express();
 var db = require('./db')
@@ -27,7 +28,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 //Use Routes HERE//
 app.use('/', indexRouter);
-app.use('/games', gamesRouter)
+app.use('/games', gamesRouter);
+app.use('/pokemon', pokemonRouter);
 
 
 // catch 404 and forward to error handler
