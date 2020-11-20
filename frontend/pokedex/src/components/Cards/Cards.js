@@ -6,8 +6,7 @@ import Card from "./Card";
 
 const useStyles = makeStyles(theme => ({
     root: {
-        flexGrow: 1,
-        padding: theme.spacing(2)
+        flexGrow: 1
     }
 }))
 
@@ -27,8 +26,8 @@ const CardsList = data => {
             >
 
                 {dataArr.map(elem => (
-                    <Grid item xs={12} sm={6} md={3} key={dataArr.indexOf(elem)}>
-                        <Card name= {elem.pokemonname} />
+                    <Grid item xs={3} sm={3} md={2} key={dataArr.indexOf(elem)}>
+                        <Card props = {elem} />
                      </Grid>
                 ))}
             </Grid>

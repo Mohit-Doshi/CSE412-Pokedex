@@ -17,6 +17,7 @@ export const getPokemon = async c => {
     let requestURL= `${baseURL}/pokemon`;
     try {
         const { data } = await axios.get(requestURL);
+        //console.log(data);
         return data;
     } catch (err) {
         console.log("Could not get data");
