@@ -6,11 +6,12 @@ import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
 
 import CustomAccordion from "../Accordion/Accordion";
-import pokeImage from "../../images/abomasnow.png"
+
 
 const useStyles = makeStyles({
   root: {
-    maxWidth: 215,
+    maxWidth: 200,
+    textAlign: "center"
   },
 });
 
@@ -19,15 +20,10 @@ const PokemonCard = props => {
 
   return (
     <Card className={classes.root}>
+      <img src = {`data:image/png;base64,${props.props.img_base64encoded}`} />
       <CardActionArea>
       <CardContent>
           <CustomAccordion props={props}/>
-        <CardMedia
-          component="img"
-          alt="Pokemon Image"
-          image={pokeImage}
-          title={props.pokemonname}
-        />
         </CardContent>
       </CardActionArea>
     </Card>

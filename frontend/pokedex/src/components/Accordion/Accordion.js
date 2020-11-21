@@ -55,21 +55,24 @@ const CustomizedAccordions = props => {
 
   const info = props.props.props;
 
+  let pokemonName = info.pokemonname;
+  pokemonName = pokemonName.charAt(0).toUpperCase() + pokemonName.slice(1);
+
   return (
     <div>
       <Accordion>
         <AccordionSummary aria-controls="panel1d-content" id="panel1d-header">
-          <Typography>{info.pokemonname}</Typography>
+          <Typography>{pokemonName}</Typography>
         </AccordionSummary>
         <AccordionDetails>
-          <Typography>
-            <p>HP: {info.hp}</p>
-            <p>Attack: {info.attack}</p>
-            <p>Defense: {info.defense}</p>
-            <p>Speed: {info.speed}</p>
-            <p>Special Attack: {info.sp_attack}</p>
-            <p>Special Defense: {info.sp_defense}</p>
-            <p>Abilities: {info.ability1}</p>
+        <Typography>
+            <p style={{fontSize: "75%"}}>HP: {info.hp}</p>
+            <p style={{fontSize: "75%"}}>Attack: {info.attack}</p>
+            <p style={{fontSize: "75%"}}>Defense: {info.defense}</p>
+            <p style={{fontSize: "75%"}}>Speed: {info.speed}</p>
+            <p style={{fontSize: "75%"}}>Special Attack: {info.sp_attack}</p>
+            <p style={{fontSize: "75%"}}>Special Defense: {info.sp_defense}</p>
+            <p style={{fontSize: "75%"}}>Abilities: {info.ability1}</p>
           </Typography>
         </AccordionDetails>
       </Accordion>

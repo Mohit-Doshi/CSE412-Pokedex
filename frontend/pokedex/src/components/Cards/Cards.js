@@ -6,15 +6,13 @@ import Card from "./Card";
 
 const useStyles = makeStyles(theme => ({
     root: {
-        flexGrow: 1
+        flexGrow: 1,
     }
 }))
 
 const CardsList = data => {
     const classes = useStyles();
-
     const dataArr = data.data;
-    
     return (
         <div className={classes.root}>
             <Grid
@@ -26,7 +24,7 @@ const CardsList = data => {
             >
 
                 {dataArr.map(elem => (
-                    <Grid item xs={3} sm={3} md={2} key={dataArr.indexOf(elem)}>
+                    <Grid item xs={1} sm={3} md={1} key={dataArr.indexOf(elem)}>
                         <Card props = {elem} />
                      </Grid>
                 ))}
