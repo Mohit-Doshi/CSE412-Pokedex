@@ -3,7 +3,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
 import CardActionArea from '@material-ui/core/CardActionArea';
 import CardContent from '@material-ui/core/CardContent';
-import CardMedia from '@material-ui/core/CardMedia';
 
 import CustomAccordion from "../Accordion/Accordion";
 
@@ -20,7 +19,7 @@ const PokemonCard = props => {
 
   return (
     <Card className={classes.root}>
-      <img src = {`data:image/png;base64,${props.props.img_base64encoded}`} />
+      <img src = {`data:image/png;base64,${props.props.img_base64encoded}`} alt="Pokemon img"/>
       <CardActionArea>
       <CardContent>
           <CustomAccordion props={props}/>

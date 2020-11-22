@@ -5,7 +5,6 @@ const db = require('../db')
 router.get('/', (req, res) => {
     db.any("SELECT * FROM games")
         .then(rows => {
-            console.log(rows)
             res.json(rows);
         })
         .catch(error => {
