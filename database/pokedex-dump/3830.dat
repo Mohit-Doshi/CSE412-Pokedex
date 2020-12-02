@@ -1,0 +1,1063 @@
+2	Ivysaur	f	1	Grass	Poison	62	63	60	60	80	80	Overgrow	
+3	Venusaur	f	1	Grass	Poison	82	83	80	80	100	100	Overgrow	
+4	Charmander	f	1	Fire		52	43	39	65	60	50	Blaze	
+5	Charmeleon	f	1	Fire		64	58	58	80	80	65	Blaze	
+7	Squirtle	f	1	Water		48	65	44	43	50	64	Torrent	
+8	Wartortle	f	1	Water		63	80	59	58	65	80	Torrent	
+9	Blastoise	f	1	Water		83	100	79	78	85	105	Torrent	
+10	Caterpie	f	1	Bug		30	35	45	45	20	20	Shield Dust	
+11	Metapod	f	1	Bug		20	55	50	30	25	25	Shed Skin	
+12	Butterfree	f	1	Bug	Flying	45	50	60	70	90	80	Compound Eyes	
+13	Weedle	f	1	Bug	Poison	35	30	40	50	20	20	Shield Dust	
+14	Kakuna	f	1	Bug	Poison	25	50	45	35	25	25	Shed Skin	Shed Skin
+15	Beedrill	f	1	Bug	Poison	90	40	65	75	45	80	Swarm	Swarm
+16	Pidgey	f	1	Normal	Flying	45	40	40	56	35	35	Keen Eye	Tangled Feet
+17	Pidgeotto	f	1	Normal	Flying	60	55	63	71	50	50	Keen Eye	Tangled Feet
+18	Pidgeot	f	1	Normal	Flying	80	75	83	101	70	70	Keen Eye	Tangled Feet
+19	Rattata	f	1	Normal		56	35	30	72	25	35	Run Away	Guts
+20	Raticate	f	1	Normal		81	60	55	97	50	70	Run Away	Guts
+21	Spearow	f	1	Normal	Flying	60	30	40	70	31	31	Keen Eye	Keen Eye
+22	Fearow	f	1	Normal	Flying	90	65	65	100	61	61	Keen Eye	Keen Eye
+23	Ekans	f	1	Poison		60	44	35	55	40	54	Intimidate	Shed Skin
+24	Arbok	f	1	Poison		95	69	60	80	65	79	Intimidate	Shed Skin
+25	Pikachu	f	1	Electric		55	40	35	90	50	50	Static	Static
+26	Raichu	f	1	Electric		90	55	60	110	90	80	Static	Static
+27	Sandshrew	f	1	Ground		75	85	50	40	20	30	Sand Veil	
+28	Sandslash	f	1	Ground		100	110	75	65	45	55	Sand Veil	
+29	Nidorana	f	1	Poison		47	52	55	41	40	40	Poison Point	Rivalry
+30	Nidorina	f	1	Poison		62	67	70	56	55	55	Poison Point	Rivalry
+31	Nidoqueen	f	1	Poison	Ground	92	87	90	76	75	85	Poison Point	Rivalry
+32	Nidorano	f	1	Poison		57	40	46	50	40	40	Poison Point	Rivalry
+33	Nidorino	f	1	Poison		72	57	61	65	55	55	Poison Point	Rivalry
+34	Nidoking	f	1	Poison	Ground	102	77	81	85	85	75	Poison Point	Rivalry
+35	Clefairy	f	1	Fairy		45	48	70	35	60	65	Cute Charm	Magic Guard
+36	Clefable	f	1	Fairy		70	73	95	60	95	90	Cute Charm	Magic Guard
+37	Vulpix	f	1	Fire		41	40	38	65	50	65	Flash Fire	
+38	Ninetales	f	1	Fire		76	75	73	100	81	100	Flash Fire	
+39	Jigglypuff	f	1	Normal	Fairy	45	20	115	20	45	25	Cute Charm	Competitive
+40	Wigglytuff	f	1	Normal	Fairy	70	45	140	45	85	50	Cute Charm	Competitive
+41	Zubat	f	1	Poison	Flying	45	35	40	55	30	40	Inner Focus	
+42	Golbat	f	1	Poison	Flying	80	70	75	90	65	75	Inner Focus	
+43	Oddish	f	1	Grass	Poison	50	55	45	30	75	65	Chlorophyll	
+44	Gloom	f	1	Grass	Poison	65	70	60	40	85	75	Chlorophyll	
+45	Vileplume	f	1	Grass	Poison	80	85	75	50	110	90	Chlorophyll	
+46	Paras	f	1	Bug	Grass	70	55	35	25	45	55	Effect Spore	Dry Skin
+47	Parasect	f	1	Bug	Grass	95	80	60	30	60	80	Effect Spore	Dry Skin
+48	Venonat	f	1	Bug	Poison	55	50	60	45	40	55	Compound Eyes	Tinted Lens
+49	Venomoth	f	1	Bug	Poison	65	60	70	90	90	75	Shield Dust	Tinted Lens
+50	Diglett	f	1	Ground		55	25	10	95	35	45	Sand Veil	Arena Trap
+51	Dugtrio	f	1	Ground		100	50	35	120	50	70	Sand Veil	Arena Trap
+52	Meowth	f	1	Normal		45	35	40	90	40	40	Pickup	Technician
+53	Persian	f	1	Normal		70	60	65	115	65	65	Limber	Technician
+54	Psyduck	f	1	Water		52	48	50	55	65	50	Damp	Cloud Nine
+55	Golduck	f	1	Water		82	78	80	85	95	80	Damp	Cloud Nine
+56	Mankey	f	1	Fighting		80	35	40	70	35	45	Vital Spirit	Anger Point
+57	Primeape	f	1	Fighting		105	60	65	95	60	70	Vital Spirit	Anger Point
+58	Growlithe	f	1	Fire		70	45	55	60	70	50	Intimidate	Flash Fire
+6	Charizard	f	1	Fire	Flying	84	78	100	100	109	85	Blaze	
+59	Arcanine	f	1	Fire		110	80	90	95	100	80	Intimidate	Flash Fire
+60	Poliwag	f	1	Water		50	40	40	90	40	40	Water Absorb	Damp
+61	Poliwhirl	f	1	Water		65	65	65	90	50	50	Water Absorb	Damp
+62	Poliwrath	f	1	Water	Fighting	95	95	90	70	70	90	Water Absorb	Damp
+63	Abra	f	1	Psychic		20	15	25	90	105	55	Synchronize	Inner Focus
+64	Kadabra	f	1	Psychic		35	30	40	105	120	70	Synchronize	Inner Focus
+65	Alakazam	f	1	Psychic		50	45	55	120	135	95	Synchronize	Inner Focus
+66	Machop	f	1	Fighting		80	50	70	35	35	35	Guts	No Guard
+67	Machoke	f	1	Fighting		100	70	80	45	50	60	Guts	No Guard
+68	Machamp	f	1	Fighting		130	80	90	55	65	85	Guts	No Guard
+69	Bellsprout	f	1	Grass	Poison	75	35	50	40	70	30	Chlorophyll	
+70	Weepinbell	f	1	Grass	Poison	90	50	65	55	85	45	Chlorophyll	
+71	Victreebel	f	1	Grass	Poison	105	65	80	70	100	70	Chlorophyll	
+72	Tentacool	f	1	Water	Poison	40	35	40	70	50	100	Clear Body	Liquid Ooze
+73	Tentacruel	f	1	Water	Poison	70	65	80	100	80	120	Clear Body	Liquid Ooze
+74	Geodude	f	1	Rock	Ground	80	100	40	20	30	30	Rock Head	Sturdy
+75	Graveler	f	1	Rock	Ground	95	115	55	35	45	45	Rock Head	Sturdy
+76	Golem	f	1	Rock	Ground	120	130	80	45	55	65	Rock Head	Sturdy
+77	Ponyta	f	1	Fire		85	55	50	90	65	65	Run Away	Flash Fire
+78	Rapidash	f	1	Fire		100	70	65	105	80	80	Run Away	Flash Fire
+79	Slowpoke	f	1	Water	Psychic	65	65	90	15	40	40	Oblivious	Own Tempo
+80	Slowbro	f	1	Water	Psychic	75	110	95	30	100	80	Oblivious	Own Tempo
+81	Magnemite	f	1	Electric	Steel	35	70	25	45	95	55	Magnet Pull	Sturdy
+82	Magneton	f	1	Electric	Steel	60	95	50	70	120	70	Magnet Pull	Sturdy
+83	Farfetch’d	f	1	Normal	Flying	90	55	52	60	58	62	Keen Eye	Inner Focus
+84	Doduo	f	1	Normal	Flying	85	45	35	75	35	35	Run Away	Early Bird
+85	Dodrio	f	1	Normal	Flying	110	70	60	100	60	60	Run Away	Early Bird
+86	Seel	f	1	Water		45	55	65	45	45	70	Thick Fat	Hydration
+87	Dewgong	f	1	Water	Ice	70	80	90	70	70	95	Thick Fat	Hydration
+88	Grimer	f	1	Poison		80	50	80	25	40	50	Stench	Sticky Hold
+89	Muk	f	1	Poison		105	75	105	50	65	100	Stench	Sticky Hold
+90	Shellder	f	1	Water		65	100	30	40	45	25	Shell Armor	Skill Link
+91	Cloyster	f	1	Water	Ice	95	180	50	70	85	45	Shell Armor	Skill Link
+92	Gastly	f	1	Ghost	Poison	35	30	30	80	100	35	Levitate	
+93	Haunter	f	1	Ghost	Poison	50	45	45	95	115	55	Levitate	
+94	Gengar	f	1	Ghost	Poison	65	60	60	110	130	75	Cursed Body	Cursed Body
+95	Onix	f	1	Rock	Ground	45	160	35	70	30	45	Rock Head	Sturdy
+96	Drowzee	f	1	Psychic		48	45	60	42	43	90	Insomnia	Forewarn
+97	Hypno	f	1	Psychic		73	70	85	67	73	115	Insomnia	Forewarn
+98	Krabby	f	1	Water		105	90	30	50	25	25	Hyper Cutter	Shell Armor
+99	Kingler	f	1	Water		130	115	55	75	50	50	Hyper Cutter	Shell Armor
+100	Voltorb	f	1	Electric		30	50	40	100	55	55	Soundproof	Static
+101	Electrode	f	1	Electric		50	70	60	150	80	80	Soundproof	Static
+102	Exeggcute	f	1	Grass	Psychic	40	80	60	40	60	45	Chlorophyll	
+103	Exeggutor	f	1	Grass	Psychic	95	85	95	55	125	75	Chlorophyll	
+104	Cubone	f	1	Ground		50	95	50	35	40	50	Rock Head	Lightning Rod
+105	Marowak	f	1	Ground		80	110	60	45	50	80	Rock Head	Lightning Rod
+106	Hitmonlee	f	1	Fighting		120	53	50	87	35	110	Limber	Reckless
+107	Hitmonchan	f	1	Fighting		105	79	50	76	35	110	Keen Eye	Iron Fist
+108	Lickitung	f	1	Normal		55	75	90	30	60	75	Own Tempo	Oblivious
+109	Koffing	f	1	Poison		65	95	40	35	60	45	Levitate	
+110	Weezing	f	1	Poison		90	120	65	60	85	70	Levitate	
+111	Rhyhorn	f	1	Ground	Rock	85	95	80	25	30	30	Lightning Rod	Rock Head
+112	Rhydon	f	1	Ground	Rock	130	120	105	40	45	45	Lightning Rod	Rock Head
+113	Chansey	f	1	Normal		5	5	250	50	35	105	Natural Cure	Serene Grace
+114	Tangela	f	1	Grass		55	115	65	60	100	40	Chlorophyll	Leaf Guard
+115	Kangaskhan	f	1	Normal		95	80	105	90	40	80	Early Bird	Scrappy
+116	Horsea	f	1	Water		40	70	30	60	70	25	Swift Swim	Sniper
+117	Seadra	f	1	Water		65	95	55	85	95	45	Poison Point	Sniper
+118	Goldeen	f	1	Water		67	60	45	63	35	50	Swift Swim	Sniper
+119	Seaking	f	1	Water		92	65	80	68	65	80	Swift Swim	Water Veil
+120	Staryu	f	1	Water		45	55	30	85	70	55	Illuminate	Natural Cure
+121	Starmie	f	1	Water	Psychic	75	85	60	115	100	85	Illuminate	Natural Cure
+122	Mr. Mime	f	1	Psychic	Fairy	45	65	40	90	100	120	Soundproof	Filter
+123	Scyther	f	1	Bug	Flying	110	80	70	105	55	80	Swarm	Technician
+124	Jynx	f	1	Ice	Psychic	50	35	65	95	115	95	Oblivious	Forewarn
+125	Electabuzz	f	1	Electric		83	57	65	105	95	85	Static	
+126	Magmar	f	1	Fire		95	57	65	93	100	85	Flame Body	
+127	Pinsir	f	1	Bug		125	100	65	85	55	70	Hyper Cutter	Mold Breaker
+128	Tauros	f	1	Normal		100	95	75	110	40	70	Intimidate	Anger Point
+129	Magikarp	f	1	Water		10	55	20	80	15	20	Swift Swim	
+130	Gyarados	f	1	Water	Flying	125	79	95	81	60	100	Intimidate	
+131	Lapras	f	1	Water	Ice	85	80	130	60	85	95	Water Absorb	Shell Armor
+132	Ditto	f	1	Normal		48	48	48	48	48	48	Limber	
+133	Eevee	f	1	Normal		55	50	55	55	45	65	Run Away	Adaptability
+134	Vaporeon	f	1	Water		65	60	130	65	110	95	Water Absorb	
+135	Jolteon	f	1	Electric		65	60	65	130	110	95	Volt Absorb	
+136	Flareon	f	1	Fire		130	60	65	65	95	110	Flash Fire	
+137	Porygon	f	1	Normal		60	70	65	40	85	75	Trace	Download
+138	Omanyte	f	1	Rock	Water	40	100	35	35	90	55	Swift Swim	Shell Armor
+139	Omastar	f	1	Rock	Water	60	125	70	55	115	70	Swift Swim	Shell Armor
+140	Kabuto	f	1	Rock	Water	80	90	30	55	55	45	Swift Swim	Battle Armor
+141	Kabutops	f	1	Rock	Water	115	105	60	80	65	70	Swift Swim	Battle Armor
+142	Aerodactyl	f	1	Rock	Flying	105	65	80	130	60	75	Rock Head	Pressure
+143	Snorlax	f	1	Normal		110	65	160	30	65	110	Immunity	Thick Fat
+144	Articuno	f	1	Ice	Flying	85	100	90	85	95	125	Pressure	
+145	Zapdos	f	1	Electric	Flying	90	85	90	100	125	90	Pressure	
+146	Moltres	f	1	Fire	Flying	100	90	90	90	125	85	Pressure	
+147	Dratini	f	1	Dragon		64	45	41	50	50	50	Shed Skin	
+148	Dragonair	f	1	Dragon		84	65	61	70	70	70	Shed Skin	
+149	Dragonite	f	1	Dragon	Flying	134	95	91	80	100	100	Inner Focus	
+150	Mewtwo	f	1	Psychic		110	90	106	130	154	90	Pressure	
+151	Mew	f	1	Psychic		100	100	100	100	100	100	Synchronize	
+152	Chikorita	f	1	Grass		49	65	45	45	49	65	Overgrow	
+153	Bayleef	f	1	Grass		62	80	60	60	63	80	Overgrow	
+154	Meganium	f	1	Grass		82	100	80	80	83	100	Overgrow	
+155	Cyndaquil	f	1	Fire		52	43	39	65	60	50	Blaze	
+156	Quilava	f	1	Fire		64	58	58	80	80	65	Blaze	
+157	Typhlosion	f	1	Fire		84	78	78	100	109	85	Blaze	
+158	Totodile	f	1	Water		65	64	50	43	44	48	Torrent	
+159	Croconaw	f	1	Water		80	80	65	58	59	63	Torrent	
+160	Feraligatr	f	1	Water		105	100	85	78	79	83	Torrent	
+161	Sentret	f	1	Normal		46	34	35	20	35	45	Run Away	Keen Eye
+162	Furret	f	1	Normal		76	64	85	90	45	55	Run Away	Keen Eye
+163	Hoothoot	f	1	Normal	Flying	30	30	60	50	36	56	Insomnia	Keen Eye
+164	Noctowl	f	1	Normal	Flying	50	50	100	70	86	96	Insomnia	Keen Eye
+165	Ledyba	f	1	Bug	Flying	20	30	40	55	40	80	Swarm	Early Bird
+166	Ledian	f	1	Bug	Flying	35	50	55	85	55	110	Swarm	Early Bird
+167	Spinarak	f	1	Bug	Poison	60	40	40	30	40	40	Swarm	Insomnia
+168	Ariados	f	1	Bug	Poison	90	70	70	40	60	70	Swarm	Insomnia
+169	Crobat	f	1	Poison	Flying	90	80	85	130	70	80	Inner Focus	
+170	Chinchou	f	1	Water	Electric	38	38	75	67	56	56	Volt Absorb	Illuminate
+171	Lanturn	f	1	Water	Electric	58	58	125	67	76	76	Volt Absorb	Illuminate
+172	Pichu	f	1	Electric		40	15	20	60	35	35	Static	
+173	Cleffa	f	1	Fairy		25	28	50	15	45	55	Cute Charm	Magic Guard
+174	Igglybuff	f	1	Normal	Fairy	30	15	90	15	40	20	Cute Charm	Competitive
+175	Togepi	f	1	Fairy		20	65	35	20	40	65	Hustle	Serene Grace
+176	Togetic	f	1	Fairy	Flying	40	85	55	40	80	105	Hustle	Serene Grace
+177	Natu	f	1	Psychic	Flying	50	45	40	70	70	45	Synchronize	Early Bird
+178	Xatu	f	1	Psychic	Flying	75	70	65	95	95	70	Synchronize	Early Bird
+179	Mareep	f	1	Electric		40	40	55	35	65	45	Static	
+180	Flaaffy	f	1	Electric		55	55	70	45	80	60	Static	
+181	Ampharos	f	1	Electric		75	85	90	55	115	90	Static	
+182	Bellossom	f	1	Grass		80	95	75	50	90	100	Chlorophyll	
+183	Marill	f	1	Water	Fairy	20	50	70	40	20	50	Thick Fat	Huge Power
+184	Azumarill	f	1	Water	Fairy	50	80	100	50	60	80	Thick Fat	Huge Power
+185	Sudowoodo	f	1	Rock		100	115	70	30	30	65	Sturdy	Rock Head
+186	Politoed	f	1	Water		75	75	90	70	90	100	Water Absorb	Damp
+187	Hoppip	f	1	Grass	Flying	35	40	35	50	35	55	Chlorophyll	Leaf Guard
+188	Skiploom	f	1	Grass	Flying	45	50	55	80	45	65	Chlorophyll	Leaf Guard
+189	Jumpluff	f	1	Grass	Flying	55	70	75	110	55	95	Chlorophyll	Leaf Guard
+190	Aipom	f	1	Normal		70	55	55	85	40	55	Run Away	Pickup
+191	Sunkern	f	1	Grass		30	30	30	30	30	30	Chlorophyll	Solar Power
+192	Sunflora	f	1	Grass		75	55	75	30	105	85	Chlorophyll	Solar Power
+193	Yanma	f	1	Bug	Flying	65	45	65	95	75	45	Speed Boost	Compound Eyes
+194	Wooper	f	1	Water	Ground	45	45	55	15	25	25	Damp	Water Absorb
+195	Quagsire	f	1	Water	Ground	85	85	95	35	65	65	Damp	Water Absorb
+196	Espeon	f	1	Psychic		65	60	65	110	130	95	Synchronize	
+197	Umbreon	f	1	Dark		65	110	95	65	60	130	Synchronize	
+198	Murkrow	f	1	Dark	Flying	85	42	60	91	85	42	Insomnia	Super Luck
+199	Slowking	f	1	Water	Psychic	75	80	95	30	100	110	Oblivious	Own Tempo
+200	Misdreavus	f	1	Ghost		60	60	60	85	85	85	Levitate	
+201	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+202	Wobbuffet	f	1	Psychic		33	58	190	33	33	58	Shadow Tag	
+203	Girafarig	f	1	Normal	Psychic	80	65	70	85	90	65	Inner Focus	Early Bird
+204	Pineco	f	1	Bug		65	90	50	15	35	35	Sturdy	
+205	Forretress	f	1	Bug	Steel	90	140	75	40	60	60	Sturdy	
+206	Dunsparce	f	1	Normal		70	70	100	45	65	65	Serene Grace	Run Away
+207	Gligar	f	1	Ground	Flying	75	105	65	85	35	65	Hyper Cutter	Sand Veil
+208	Steelix	f	1	Steel	Ground	85	200	75	30	55	65	Rock Head	Sturdy
+209	Snubbull	f	1	Fairy		80	50	60	30	40	40	Intimidate	Run Away
+210	Granbull	f	1	Fairy		120	75	90	45	60	60	Intimidate	Quick Feet
+211	Qwilfish	f	1	Water	Poison	95	85	65	85	55	55	Poison Point	Swift Swim
+212	Scizor	f	1	Bug	Steel	130	100	70	65	55	80	Swarm	Technician
+213	Shuckle	f	1	Bug	Rock	10	230	20	5	10	230	Sturdy	Gluttony
+214	Heracross	f	1	Bug	Fighting	125	75	80	85	40	95	Swarm	Guts
+215	Sneasel	f	1	Dark	Ice	95	55	55	115	35	75	Inner Focus	Keen Eye
+216	Teddiursa	f	1	Normal		80	50	60	40	50	50	Pickup	Quick Feet
+217	Ursaring	f	1	Normal		130	75	90	55	75	75	Guts	Quick Feet
+218	Slugma	f	1	Fire		40	40	40	20	70	40	Magma Armor	Flame Body
+219	Magcargo	f	1	Fire	Rock	50	120	60	30	90	80	Magma Armor	Flame Body
+220	Swinub	f	1	Ice	Ground	50	40	50	50	30	30	Oblivious	Snow Cloak
+221	Piloswine	f	1	Ice	Ground	100	80	100	50	60	60	Oblivious	Snow Cloak
+222	Corsola	f	1	Water	Rock	55	95	65	35	65	95	Hustle	Natural Cure
+223	Remoraid	f	1	Water		65	35	35	65	65	35	Hustle	Sniper
+224	Octillery	f	1	Water		105	75	75	45	105	75	Suction Cups	Sniper
+225	Delibird	f	1	Ice	Flying	55	45	45	75	65	45	Vital Spirit	Hustle
+226	Mantine	f	1	Water	Flying	40	70	85	70	80	140	Swift Swim	Water Absorb
+227	Skarmory	f	1	Steel	Flying	80	140	65	70	40	70	Keen Eye	Sturdy
+228	Houndour	f	1	Dark	Fire	60	30	45	65	80	50	Early Bird	Flash Fire
+229	Houndoom	f	1	Dark	Fire	90	50	75	95	110	80	Early Bird	Flash Fire
+230	Kingdra	f	1	Water	Dragon	95	95	75	85	95	95	Swift Swim	Sniper
+231	Phanpy	f	1	Ground		60	60	90	40	40	40	Pickup	
+232	Donphan	f	1	Ground		120	120	90	50	60	60	Sturdy	
+233	Porygon2	f	1	Normal		80	90	85	60	105	95	Trace	Download
+234	Stantler	f	1	Normal		95	62	73	85	85	65	Intimidate	Frisk
+235	Smeargle	f	1	Normal		20	35	55	75	20	45	Own Tempo	Technician
+236	Tyrogue	f	1	Fighting		35	35	35	35	35	35	Guts	Steadfast
+237	Hitmontop	f	1	Fighting		95	95	50	70	35	110	Intimidate	Technician
+238	Smoochum	f	1	Ice	Psychic	30	15	45	65	85	65	Oblivious	Forewarn
+239	Elekid	f	1	Electric		63	37	45	95	65	55	Static	
+240	Magby	f	1	Fire		75	37	45	83	70	55	Flame Body	
+241	Miltank	f	1	Normal		80	105	95	100	40	70	Thick Fat	Scrappy
+242	Blissey	f	1	Normal		10	10	255	55	75	135	Natural Cure	Serene Grace
+243	Raikou	f	1	Electric		85	75	90	115	115	100	Pressure	
+244	Entei	f	1	Fire		115	85	115	100	90	75	Pressure	
+245	Suicune	f	1	Water		75	115	100	85	90	115	Pressure	
+246	Larvitar	f	1	Rock	Ground	64	50	50	41	45	50	Guts	
+247	Pupitar	f	1	Rock	Ground	84	70	70	51	65	70	Shed Skin	
+248	Tyranitar	f	1	Rock	Dark	134	110	100	61	95	100	Sand Stream	
+249	Lugia	f	1	Psychic	Flying	90	130	106	110	90	154	Pressure	
+250	Ho-Oh	f	1	Fire	Flying	130	90	106	90	110	154	Pressure	
+251	Celebi	f	1	Psychic	Grass	100	100	100	100	100	100	Natural Cure	
+252	Treecko	f	1	Grass		45	35	40	70	65	55	Overgrow	
+253	Grovyle	f	1	Grass		65	45	50	95	85	65	Overgrow	
+254	Sceptile	f	1	Grass		85	65	70	120	105	85	Overgrow	
+255	Torchic	f	1	Fire		60	40	45	45	70	50	Blaze	
+256	Combusken	f	1	Fire	Fighting	85	60	60	55	85	60	Blaze	
+257	Blaziken	f	1	Fire	Fighting	120	70	80	80	110	70	Blaze	
+258	Mudkip	f	1	Water		70	50	50	40	50	50	Torrent	
+259	Marshtomp	f	1	Water	Ground	85	70	70	50	60	70	Torrent	
+260	Swampert	f	1	Water	Ground	110	90	100	60	85	90	Torrent	
+261	Poochyena	f	1	Dark		55	35	35	35	30	30	Run Away	Quick Feet
+262	Mightyena	f	1	Dark		90	70	70	70	60	60	Intimidate	Quick Feet
+263	Zigzagoon	f	1	Normal		30	41	38	60	30	41	Pickup	Gluttony
+264	Linoone	f	1	Normal		70	61	78	100	50	61	Pickup	Gluttony
+265	Wurmple	f	1	Bug		45	35	45	20	20	30	Shield Dust	
+266	Silcoon	f	1	Bug		35	55	50	15	25	25	Shed Skin	
+267	Beautifly	f	1	Bug	Flying	70	50	60	65	100	50	Swarm	
+268	Cascoon	f	1	Bug		35	55	50	15	25	25	Shed Skin	
+269	Dustox	f	1	Bug	Poison	50	70	60	65	50	90	Shield Dust	
+270	Lotad	f	1	Water	Grass	30	30	40	30	40	50	Swift Swim	Rain Dish
+271	Lombre	f	1	Water	Grass	50	50	60	50	60	70	Swift Swim	Rain Dish
+272	Ludicolo	f	1	Water	Grass	70	70	80	70	90	100	Swift Swim	Rain Dish
+273	Seedot	f	1	Grass		40	50	40	30	30	30	Chlorophyll	Early Bird
+274	Nuzleaf	f	1	Grass	Dark	70	40	70	60	60	40	Chlorophyll	Early Bird
+275	Shiftry	f	1	Grass	Dark	100	60	90	80	90	60	Chlorophyll	Early Bird
+276	Taillow	f	1	Normal	Flying	55	30	40	85	30	30	Guts	
+277	Swellow	f	1	Normal	Flying	85	60	60	125	75	50	Guts	
+278	Wingull	f	1	Water	Flying	30	30	40	85	55	30	Keen Eye	Hydration
+279	Pelipper	f	1	Water	Flying	50	100	60	65	95	70	Keen Eye	Drizzle
+280	Ralts	f	1	Psychic	Fairy	25	25	28	40	45	35	Synchronize	Trace
+281	Kirlia	f	1	Psychic	Fairy	35	35	38	50	65	55	Synchronize	Trace
+282	Gardevoir	f	1	Psychic	Fairy	65	65	68	80	125	115	Synchronize	Trace
+283	Surskit	f	1	Bug	Water	30	32	40	65	50	52	Swift Swim	
+284	Masquerain	f	1	Bug	Flying	60	62	70	80	100	82	Intimidate	
+285	Shroomish	f	1	Grass		40	60	60	35	40	60	Effect Spore	Poison Heal
+286	Breloom	f	1	Grass	Fighting	130	80	60	70	60	60	Effect Spore	Poison Heal
+287	Slakoth	f	1	Normal		60	60	60	30	35	35	Truant	
+288	Vigoroth	f	1	Normal		80	80	80	90	55	55	Vital Spirit	
+289	Slaking	f	1	Normal		160	100	150	100	95	65	Truant	
+290	Nincada	f	1	Bug	Ground	45	90	31	40	30	30	Compound Eyes	
+291	Ninjask	f	1	Bug	Flying	90	45	61	160	50	50	Speed Boost	
+292	Shedinja	f	1	Bug	Ghost	90	45	1	40	30	30	Wonder Guard	
+293	Whismur	f	1	Normal		51	23	64	28	51	23	Soundproof	
+294	Loudred	f	1	Normal		71	43	84	48	71	43	Soundproof	
+295	Exploud	f	1	Normal		91	63	104	68	91	73	Soundproof	
+296	Makuhita	f	1	Fighting		60	30	72	25	20	30	Thick Fat	Guts
+297	Hariyama	f	1	Fighting		120	60	144	50	40	60	Thick Fat	Guts
+298	Azurill	f	1	Normal	Fairy	20	40	50	20	20	40	Thick Fat	Huge Power
+299	Nosepass	f	1	Rock		45	135	30	30	45	90	Sturdy	Magnet Pull
+300	Skitty	f	1	Normal		45	45	50	50	35	35	Cute Charm	Normalize
+301	Delcatty	f	1	Normal		65	65	70	90	55	55	Cute Charm	Normalize
+302	Sableye	f	1	Dark	Ghost	75	75	50	50	65	65	Keen Eye	Stall
+303	Mawile	f	1	Steel	Fairy	85	85	50	50	55	55	Hyper Cutter	Intimidate
+304	Aron	f	1	Steel	Rock	70	100	50	30	40	40	Sturdy	Rock Head
+305	Lairon	f	1	Steel	Rock	90	140	60	40	50	50	Sturdy	Rock Head
+306	Aggron	f	1	Steel	Rock	110	180	70	50	60	60	Sturdy	Rock Head
+307	Meditite	f	1	Fighting	Psychic	40	55	30	60	40	55	Pure Power	
+308	Medicham	f	1	Fighting	Psychic	60	75	60	80	60	75	Pure Power	
+309	Electrike	f	1	Electric		45	40	40	65	65	40	Static	Lightning Rod
+310	Manectric	f	1	Electric		75	60	70	105	105	60	Static	Lightning Rod
+311	Plusle	f	1	Electric		50	40	60	95	85	75	Plus	
+312	Minun	f	1	Electric		40	50	60	95	75	85	Minus	
+313	Volbeat	f	1	Bug		73	75	65	85	47	85	Illuminate	Swarm
+314	Illumise	f	1	Bug		47	75	65	85	73	85	Oblivious	Tinted Lens
+315	Roselia	f	1	Grass	Poison	60	45	50	65	100	80	Natural Cure	Poison Point
+316	Gulpin	f	1	Poison		43	53	70	40	43	53	Liquid Ooze	Sticky Hold
+317	Swalot	f	1	Poison		73	83	100	55	73	83	Liquid Ooze	Sticky Hold
+318	Carvanha	f	1	Water	Dark	90	20	45	65	65	20	Rough Skin	
+319	Sharpedo	f	1	Water	Dark	120	40	70	95	95	40	Rough Skin	
+320	Wailmer	f	1	Water		70	35	130	60	70	35	Water Veil	Oblivious
+321	Wailord	f	1	Water		90	45	170	60	90	45	Water Veil	Oblivious
+322	Numel	f	1	Fire	Ground	60	40	60	35	65	45	Oblivious	Simple
+323	Camerupt	f	1	Fire	Ground	100	70	70	40	105	75	Magma Armor	Solid Rock
+324	Torkoal	f	1	Fire		85	140	70	20	85	70	White Smoke	Drought
+325	Spoink	f	1	Psychic		25	35	60	60	70	80	Thick Fat	Own Tempo
+326	Grumpig	f	1	Psychic		45	65	80	80	90	110	Thick Fat	Own Tempo
+327	Spinda	f	1	Normal		60	60	60	60	60	60	Own Tempo	Tangled Feet
+328	Trapinch	f	1	Ground		100	45	45	10	45	45	Hyper Cutter	Arena Trap
+329	Vibrava	f	1	Ground	Dragon	70	50	50	70	50	50	Levitate	
+330	Flygon	f	1	Ground	Dragon	100	80	80	100	80	80	Levitate	
+331	Cacnea	f	1	Grass		85	40	50	35	85	40	Sand Veil	
+332	Cacturne	f	1	Grass	Dark	115	60	70	55	115	60	Sand Veil	
+333	Swablu	f	1	Normal	Flying	40	60	45	50	40	75	Natural Cure	
+334	Altaria	f	1	Dragon	Flying	70	90	75	80	70	105	Natural Cure	
+335	Zangoose	f	1	Normal		115	60	73	90	60	60	Immunity	
+336	Seviper	f	1	Poison		100	60	73	65	100	60	Shed Skin	
+337	Lunatone	f	1	Rock	Psychic	55	65	90	70	95	85	Levitate	
+338	Solrock	f	1	Rock	Psychic	95	85	90	70	55	65	Levitate	
+339	Barboach	f	1	Water	Ground	48	43	50	60	46	41	Oblivious	Anticipation
+340	Whiscash	f	1	Water	Ground	78	73	110	60	76	71	Oblivious	Anticipation
+341	Corphish	f	1	Water		80	65	43	35	50	35	Hyper Cutter	Shell Armor
+342	Crawdaunt	f	1	Water	Dark	120	85	63	55	90	55	Hyper Cutter	Shell Armor
+343	Baltoy	f	1	Ground	Psychic	40	55	40	55	40	70	Levitate	
+344	Claydol	f	1	Ground	Psychic	70	105	60	75	70	120	Levitate	
+345	Lileep	f	1	Rock	Grass	41	77	66	23	61	87	Suction Cups	
+346	Cradily	f	1	Rock	Grass	81	97	86	43	81	107	Suction Cups	
+347	Anorith	f	1	Rock	Bug	95	50	45	75	40	50	Battle Armor	
+348	Armaldo	f	1	Rock	Bug	125	100	75	45	70	80	Battle Armor	
+349	Feebas	f	1	Water		15	20	20	80	10	55	Swift Swim	Oblivious
+350	Milotic	f	1	Water		60	79	95	81	100	125	Marvel Scale	Competitive
+351	Castform	f	1	Normal		70	70	70	70	70	70	Forecast	
+352	Kecleon	f	1	Normal		90	70	60	40	60	120	Color Change	
+353	Shuppet	f	1	Ghost		75	35	44	45	63	33	Insomnia	Frisk
+354	Banette	f	1	Ghost		115	65	64	65	83	63	Insomnia	Frisk
+355	Duskull	f	1	Ghost		40	90	20	25	30	90	Levitate	
+356	Dusclops	f	1	Ghost		70	130	40	25	60	130	Pressure	
+357	Tropius	f	1	Grass	Flying	68	83	99	51	72	87	Chlorophyll	Solar Power
+358	Chimecho	f	1	Psychic		50	80	75	65	95	90	Levitate	
+359	Absol	f	1	Dark		130	60	65	75	75	60	Pressure	Super Luck
+360	Wynaut	f	1	Psychic		23	48	95	23	23	48	Shadow Tag	
+361	Snorunt	f	1	Ice		50	50	50	50	50	50	Inner Focus	Ice Body
+362	Glalie	f	1	Ice		80	80	80	80	80	80	Inner Focus	Ice Body
+363	Spheal	f	1	Ice	Water	40	50	70	25	55	50	Thick Fat	Ice Body
+364	Sealeo	f	1	Ice	Water	60	70	90	45	75	70	Thick Fat	Ice Body
+365	Walrein	f	1	Ice	Water	80	90	110	65	95	90	Thick Fat	Ice Body
+366	Clamperl	f	1	Water		64	85	35	32	74	55	Shell Armor	
+367	Huntail	f	1	Water		104	105	55	52	94	75	Swift Swim	
+368	Gorebyss	f	1	Water		84	105	55	52	114	75	Swift Swim	
+369	Relicanth	f	1	Water	Rock	90	130	100	55	45	65	Swift Swim	Rock Head
+370	Luvdisc	f	1	Water		30	55	43	97	40	65	Swift Swim	
+371	Bagon	f	1	Dragon		75	60	45	50	40	30	Rock Head	
+372	Shelgon	f	1	Dragon		95	100	65	50	60	50	Rock Head	
+373	Salamence	f	1	Dragon	Flying	135	80	95	100	110	80	Intimidate	
+374	Beldum	f	1	Steel	Psychic	55	80	40	30	35	60	Clear Body	
+375	Metang	f	1	Steel	Psychic	75	100	60	50	55	80	Clear Body	
+376	Metagross	f	1	Steel	Psychic	135	130	80	70	95	90	Clear Body	
+377	Regirock	f	1	Rock		100	200	80	50	50	100	Clear Body	
+378	Regice	f	1	Ice		50	100	80	50	100	200	Clear Body	
+379	Registeel	f	1	Steel		75	150	80	50	75	150	Clear Body	
+380	Latias	f	1	Dragon	Psychic	80	90	80	110	110	130	Levitate	
+381	Latios	f	1	Dragon	Psychic	90	80	80	110	130	110	Levitate	
+382	Kyogre	f	1	Water		100	90	100	90	150	140	Drizzle	
+383	Groudon	f	1	Ground		150	140	100	90	100	90	Drought	
+384	Rayquaza	f	1	Dragon	Flying	150	90	105	95	150	90	Air Lock	
+385	Jirachi	f	1	Steel	Psychic	100	100	100	100	100	100	Serene Grace	
+386	Deoxys	f	1	Psychic		150	50	50	150	150	50	Pressure	
+387	Turtwig	f	1	Grass		68	64	55	31	45	55	Overgrow	
+388	Grotle	f	1	Grass		89	85	75	36	55	65	Overgrow	
+389	Torterra	f	1	Grass	Ground	109	105	95	56	75	85	Overgrow	
+390	Chimchar	f	1	Fire		58	44	44	61	58	44	Blaze	
+391	Monferno	f	1	Fire	Fighting	78	52	64	81	78	52	Blaze	
+392	Infernape	f	1	Fire	Fighting	104	71	76	108	104	71	Blaze	
+393	Piplup	f	1	Water		51	53	53	40	61	56	Torrent	
+394	Prinplup	f	1	Water		66	68	64	50	81	76	Torrent	
+395	Empoleon	f	1	Water	Steel	86	88	84	60	111	101	Torrent	
+396	Starly	f	1	Normal	Flying	55	30	40	60	30	30	Keen Eye	
+397	Staravia	f	1	Normal	Flying	75	50	55	80	40	40	Intimidate	
+398	Staraptor	f	1	Normal	Flying	120	70	85	100	50	60	Intimidate	
+399	Bidoof	f	1	Normal		45	40	59	31	35	40	Simple	Unaware
+400	Bibarel	f	1	Normal	Water	85	60	79	71	55	60	Simple	Unaware
+401	Kricketot	f	1	Bug		25	41	37	25	25	41	Shed Skin	
+402	Kricketune	f	1	Bug		85	51	77	65	55	51	Swarm	
+403	Shinx	f	1	Electric		65	34	45	45	40	34	Rivalry	Intimidate
+404	Luxio	f	1	Electric		85	49	60	60	60	49	Rivalry	Intimidate
+405	Luxray	f	1	Electric		120	79	80	70	95	79	Rivalry	Intimidate
+406	Budew	f	1	Grass	Poison	30	35	40	55	50	70	Mold Breaker	
+407	Roserade	f	1	Grass	Poison	70	65	60	90	125	105	Mold Breaker	
+408	Cranidos	f	1	Rock		125	40	67	58	30	30	Sturdy	
+409	Rampardos	f	1	Rock		165	60	97	58	65	50	Sturdy	
+410	Shieldon	f	1	Rock	Steel	42	118	30	30	42	88	Shed Skin	
+411	Bastiodon	f	1	Rock	Steel	52	168	60	30	47	138	Shed Skin	
+412	Burmy	f	1	Bug		29	45	40	36	29	45	Shed Skin	
+413	Wormadam	f	1	Bug	Grass	59	85	60	36	79	105	Anticipation	
+414	Mothim	f	1	Bug	Flying	94	50	70	66	94	50	Swarm	
+415	Combee	f	1	Bug	Flying	30	42	30	70	30	42	Honey Gather	
+416	Vespiquen	f	1	Bug	Flying	80	102	70	40	80	102	Pressure	
+417	Pachirisu	f	1	Electric		45	70	60	95	45	90	Run Away	Pickup
+418	Buizel	f	1	Water		65	35	55	85	60	30	Swift Swim	
+419	Floatzel	f	1	Water		105	55	85	115	85	50	Swift Swim	
+420	Cherubi	f	1	Grass		35	45	45	35	62	53	Chlorophyll	
+421	Cherrim	f	1	Grass		60	70	70	85	87	78	Flower Gift	
+422	Shellos	f	1	Water		48	48	76	34	57	62	Sticky Hold	Storm Drain
+423	Gastrodon	f	1	Water	Ground	83	68	111	39	92	82	Sticky Hold	Storm Drain
+424	Ambipom	f	1	Normal		100	66	75	115	60	66	Technician	Pickup
+425	Drifloon	f	1	Ghost	Flying	50	34	90	70	60	44	Aftermath	Unburden
+426	Drifblim	f	1	Ghost	Flying	80	44	150	80	90	54	Aftermath	Unburden
+427	Buneary	f	1	Normal		66	44	55	85	44	56	Run Away	Klutz
+428	Lopunny	f	1	Normal		76	84	65	105	54	96	Cute Charm	Klutz
+429	Mismagius	f	1	Ghost		60	60	60	105	105	105	Levitate	
+430	Honchkrow	f	1	Dark	Flying	125	52	100	71	105	52	Insomnia	Super Luck
+431	Glameow	f	1	Normal		55	42	49	85	42	37	Limber	Own Tempo
+432	Purugly	f	1	Normal		82	64	71	112	64	59	Thick Fat	Own Tempo
+433	Chingling	f	1	Psychic		30	50	45	45	65	50	Levitate	
+434	Stunky	f	1	Poison	Dark	63	47	63	74	41	41	Stench	Aftermath
+435	Skuntank	f	1	Poison	Dark	93	67	103	84	71	61	Stench	Aftermath
+436	Bronzor	f	1	Steel	Psychic	24	86	57	23	24	86	Levitate	Heatproof
+437	Bronzong	f	1	Steel	Psychic	89	116	67	33	79	116	Levitate	Heatproof
+438	Bonsly	f	1	Rock		80	95	50	10	10	45	Sturdy	Rock Head
+439	Mime Jr.	f	1	Psychic	Fairy	25	45	20	60	70	90	Soundproof	Filter
+440	Happiny	f	1	Normal		5	5	100	30	15	65	Natural Cure	Serene Grace
+441	Chatot	f	1	Normal	Flying	65	45	76	91	92	42	Keen Eye	Tangled Feet
+442	Spiritomb	f	1	Ghost		92	108	50	35	92	108	Pressure	
+443	Gible	f	1	Dragon	Ground	70	45	58	42	40	45	Sand Veil	
+444	Gabite	f	1	Dragon	Ground	90	65	68	82	50	55	Sand Veil	
+445	Garchomp	f	1	Dragon	Ground	130	95	108	102	80	85	Sand Veil	
+446	Munchlax	f	1	Normal		85	40	135	5	40	85	Pickup	Thick Fat
+447	Riolu	f	1	Fighting		70	40	40	60	35	40	Steadfast	Inner Focus
+448	Lucario	f	1	Fighting	Steel	110	70	70	90	115	70	Steadfast	Inner Focus
+449	Hippopotas	f	1	Ground		72	78	68	32	38	42	Sand Stream	
+450	Hippowdon	f	1	Ground		112	118	108	47	68	72	Sand Stream	
+451	Skorupi	f	1	Poison	Bug	50	90	40	65	30	55	Battle Armor	Sniper
+452	Drapion	f	1	Poison	Dark	90	110	70	95	60	75	Battle Armor	Sniper
+453	Croagunk	f	1	Poison	Fighting	61	40	48	50	61	40	Anticipation	Dry Skin
+454	Toxicroak	f	1	Poison	Fighting	106	65	83	85	86	65	Anticipation	Dry Skin
+455	Carnivine	f	1	Grass		100	72	74	46	90	72	Levitate	
+456	Finneon	f	1	Water		49	56	49	66	49	61	Swift Swim	Storm Drain
+457	Lumineon	f	1	Water		69	76	69	91	69	86	Swift Swim	Storm Drain
+458	Mantyke	f	1	Water	Flying	20	50	45	50	60	120	Swift Swim	Water Absorb
+459	Snover	f	1	Grass	Ice	62	50	60	40	62	60	Snow Warning	
+460	Abomasnow	f	1	Grass	Ice	92	75	90	60	92	85	Snow Warning	
+461	Weavile	f	1	Dark	Ice	120	65	70	125	45	85	Pressure	
+462	Magnezone	f	1	Electric	Steel	70	115	70	60	130	90	Magnet Pull	Sturdy
+463	Lickilicky	f	1	Normal		85	95	110	50	80	95	Own Tempo	Oblivious
+464	Rhyperior	f	1	Ground	Rock	140	130	115	40	55	55	Lightning Rod	Solid Rock
+465	Tangrowth	f	1	Grass		100	125	100	50	110	50	Chlorophyll	Leaf Guard
+466	Electivire	f	1	Electric		123	67	75	95	95	85	Motor Drive	
+467	Magmortar	f	1	Fire		95	67	75	83	125	95	Flame Body	
+468	Togekiss	f	1	Fairy	Flying	50	95	85	80	120	115	Hustle	Serene Grace
+469	Yanmega	f	1	Bug	Flying	76	86	86	95	116	56	Speed Boost	Tinted Lens
+470	Leafeon	f	1	Grass		110	130	65	95	60	65	Leaf Guard	
+471	Glaceon	f	1	Ice		60	110	65	65	130	95	Snow Cloak	
+472	Gliscor	f	1	Ground	Flying	95	125	75	95	45	75	Hyper Cutter	Sand Veil
+473	Mamoswine	f	1	Ice	Ground	130	80	110	80	70	60	Oblivious	Snow Cloak
+474	Porygon-Z	f	1	Normal		80	70	85	90	135	75	Adaptability	Download
+475	Gallade	f	1	Psychic	Fighting	125	65	68	80	65	115	Steadfast	
+476	Probopass	f	1	Rock	Steel	55	145	60	40	75	150	Sturdy	Magnet Pull
+477	Dusknoir	f	1	Ghost		100	135	45	45	65	135	Pressure	
+478	Froslass	f	1	Ice	Ghost	80	70	70	110	80	70	Snow Cloak	
+479	Rotom	f	1	Electric	Ghost	50	77	50	91	95	77	Levitate	
+480	Uxie	f	1	Psychic		75	130	75	95	75	130	Levitate	
+481	Mesprit	f	1	Psychic		105	105	80	80	105	105	Levitate	
+482	Azelf	f	1	Psychic		125	70	75	115	125	70	Levitate	
+483	Dialga	f	1	Steel	Dragon	120	120	100	90	150	100	Pressure	
+484	Palkia	f	1	Water	Dragon	120	100	90	100	150	120	Pressure	
+485	Heatran	f	1	Fire	Steel	90	106	91	77	130	106	Flash Fire	
+486	Regigigas	f	1	Normal		160	110	110	100	80	110	Slow Start	
+487	Giratina	f	1	Ghost	Dragon	100	120	150	90	100	120	Pressure	
+488	Cresselia	f	1	Psychic		70	120	120	85	75	130	Levitate	
+489	Phione	f	1	Water		80	80	80	80	80	80	Hydration	
+490	Manaphy	f	1	Water		100	100	100	100	100	100	Hydration	
+491	Darkrai	f	1	Dark		90	90	70	125	135	90	Bad Dreams	
+492	Shaymin	f	1	Grass		100	100	100	100	100	100	Natural Cure	
+493	Arceus	f	1	Normal		120	120	120	120	120	120	Multitype	
+494	Victini	f	1	Psychic	Fire	100	100	100	100	100	100	Victory Star	
+495	Snivy	f	1	Grass		45	55	45	63	45	55	Overgrow	
+496	Servine	f	1	Grass		60	75	60	83	60	75	Overgrow	
+497	Serperior	f	1	Grass		75	95	75	113	75	95	Overgrow	
+498	Tepig	f	1	Fire		63	45	65	45	45	45	Blaze	
+499	Pignite	f	1	Fire	Fighting	93	55	90	55	70	55	Blaze	
+500	Emboar	f	1	Fire	Fighting	123	65	110	65	100	65	Blaze	
+501	Oshawott	f	1	Water		55	45	55	45	63	45	Torrent	
+502	Dewott	f	1	Water		75	60	75	60	83	60	Torrent	
+503	Samurott	f	1	Water		100	85	95	70	108	70	Torrent	
+504	Patrat	f	1	Normal		55	39	45	42	35	39	Run Away	Keen Eye
+505	Watchog	f	1	Normal		85	69	60	77	60	69	Illuminate	Keen Eye
+506	Lillipup	f	1	Normal		60	45	45	55	25	45	Vital Spirit	Pickup
+507	Herdier	f	1	Normal		80	65	65	60	35	65	Intimidate	Sand Rush
+508	Stoutland	f	1	Normal		110	90	85	80	45	90	Intimidate	Sand Rush
+509	Purrloin	f	1	Dark		50	37	41	66	50	37	Limber	Unburden
+510	Liepard	f	1	Dark		88	50	64	106	88	50	Limber	Unburden
+511	Pansage	f	1	Grass		53	48	50	64	53	48	Gluttony	
+512	Simisage	f	1	Grass		98	63	75	101	98	63	Gluttony	
+513	Pansear	f	1	Fire		53	48	50	64	53	48	Gluttony	
+514	Simisear	f	1	Fire		98	63	75	101	98	63	Gluttony	
+515	Panpour	f	1	Water		53	48	50	64	53	48	Gluttony	
+516	Simipour	f	1	Water		98	63	75	101	98	63	Gluttony	
+517	Munna	f	1	Psychic		25	45	76	24	67	55	Forewarn	Synchronize
+518	Musharna	f	1	Psychic		55	85	116	29	107	95	Forewarn	Synchronize
+519	Pidove	f	1	Normal	Flying	55	50	50	43	36	30	Big Pecks	Super Luck
+520	Tranquill	f	1	Normal	Flying	77	62	62	65	50	42	Big Pecks	Super Luck
+521	Unfezant	f	1	Normal	Flying	115	80	80	93	65	55	Big Pecks	Super Luck
+522	Blitzle	f	1	Electric		60	32	45	76	50	32	Lightning Rod	Motor Drive
+523	Zebstrika	f	1	Electric		100	63	75	116	80	63	Lightning Rod	Motor Drive
+524	Roggenrola	f	1	Rock		75	85	55	15	25	25	Sturdy	Weak Armor
+525	Boldore	f	1	Rock		105	105	70	20	50	40	Sturdy	Weak Armor
+526	Gigalith	f	1	Rock		135	130	85	25	60	80	Sturdy	Sand Stream
+527	Woobat	f	1	Psychic	Flying	45	43	65	72	55	43	Unaware	Klutz
+528	Swoobat	f	1	Psychic	Flying	57	55	67	114	77	55	Unaware	Klutz
+529	Drilbur	f	1	Ground		85	40	60	68	30	45	Sand Rush	Sand Force
+530	Excadrill	f	1	Ground	Steel	135	60	110	88	50	65	Sand Rush	Sand Force
+531	Audino	f	1	Normal		60	86	103	50	60	86	Healer	Regenerator
+532	Timburr	f	1	Fighting		80	55	75	35	25	35	Guts	Sheer Force
+533	Gurdurr	f	1	Fighting		105	85	85	40	40	50	Guts	Sheer Force
+534	Conkeldurr	f	1	Fighting		140	95	105	45	55	65	Guts	Sheer Force
+535	Tympole	f	1	Water		50	40	50	64	50	40	Swift Swim	Hydration
+536	Palpitoad	f	1	Water	Ground	65	55	75	69	65	55	Swift Swim	Hydration
+537	Seismitoad	f	1	Water	Ground	95	75	105	74	85	75	Swift Swim	Poison Touch
+538	Throh	f	1	Fighting		100	85	120	45	30	85	Guts	Inner Focus
+539	Sawk	f	1	Fighting		125	75	75	85	30	75	Sturdy	Inner Focus
+540	Sewaddle	f	1	Bug	Grass	53	70	45	42	40	60	Swarm	Chlorophyll
+541	Swadloon	f	1	Bug	Grass	63	90	55	42	50	80	Leaf Guard	Chlorophyll
+542	Leavanny	f	1	Bug	Grass	103	80	75	92	70	80	Swarm	Chlorophyll
+543	Venipede	f	1	Bug	Poison	45	59	30	57	30	39	Poison Point	Swarm
+544	Whirlipede	f	1	Bug	Poison	55	99	40	47	40	79	Poison Point	Swarm
+545	Scolipede	f	1	Bug	Poison	100	89	60	112	55	69	Poison Point	Swarm
+546	Cottonee	f	1	Grass	Fairy	27	60	40	66	37	50	Prankster	Infiltrator
+547	Whimsicott	f	1	Grass	Fairy	67	85	60	116	77	75	Prankster	Infiltrator
+548	Petilil	f	1	Grass		35	50	45	30	70	50	Chlorophyll	Own Tempo
+549	Lilligant	f	1	Grass		60	75	70	90	110	75	Chlorophyll	Own Tempo
+550	Basculin	f	1	Water		92	65	70	98	80	55	Reckless	Adaptability
+551	Sandile	f	1	Ground	Dark	72	35	50	65	35	35	Intimidate	Moxie
+552	Krokorok	f	1	Ground	Dark	82	45	60	74	45	45	Intimidate	Moxie
+553	Krookodile	f	1	Ground	Dark	117	80	95	92	65	70	Intimidate	Moxie
+554	Darumaka	f	1	Fire		90	45	70	50	15	45	Hustle	
+555	Darmanitan	f	1	Fire		140	55	105	95	30	55	Sheer Force	
+556	Maractus	f	1	Grass		86	67	75	60	106	67	Water Absorb	Chlorophyll
+557	Dwebble	f	1	Bug	Rock	65	85	50	55	35	35	Sturdy	Shell Armor
+558	Crustle	f	1	Bug	Rock	105	125	70	45	65	75	Sturdy	Shell Armor
+559	Scraggy	f	1	Dark	Fighting	75	70	50	48	35	70	Shed Skin	Moxie
+560	Scrafty	f	1	Dark	Fighting	90	115	65	58	45	115	Shed Skin	Moxie
+561	Sigilyph	f	1	Psychic	Flying	58	80	72	97	103	80	Wonder Skin	Magic Guard
+562	Yamask	f	1	Ghost		30	85	38	30	55	65	Mummy	
+563	Cofagrigus	f	1	Ghost		50	145	58	30	95	105	Mummy	
+564	Tirtouga	f	1	Water	Rock	78	103	54	22	53	45	Solid Rock	Sturdy
+565	Carracosta	f	1	Water	Rock	108	133	74	32	83	65	Solid Rock	Sturdy
+566	Archen	f	1	Rock	Flying	112	45	55	70	74	45	Defeatist	
+567	Archeops	f	1	Rock	Flying	140	65	75	110	112	65	Defeatist	
+568	Trubbish	f	1	Poison		50	62	50	65	40	62	Stench	Sticky Hold
+569	Garbodor	f	1	Poison		95	82	80	75	60	82	Stench	Weak Armor
+570	Zorua	f	1	Dark		65	40	40	65	80	40	Illusion	
+571	Zoroark	f	1	Dark		105	60	60	105	120	60	Illusion	
+572	Minccino	f	1	Normal		50	40	55	75	40	40	Cute Charm	Technician
+573	Cinccino	f	1	Normal		95	60	75	115	65	60	Cute Charm	Technician
+574	Gothita	f	1	Psychic		30	50	45	45	55	65	Frisk	Competitive
+575	Gothorita	f	1	Psychic		45	70	60	55	75	85	Frisk	Competitive
+576	Gothitelle	f	1	Psychic		55	95	70	65	95	110	Frisk	Competitive
+577	Solosis	f	1	Psychic		30	40	45	20	105	50	Overcoat	Magic Guard
+578	Duosion	f	1	Psychic		40	50	65	30	125	60	Overcoat	Magic Guard
+579	Reuniclus	f	1	Psychic		65	75	110	30	125	85	Overcoat	Magic Guard
+580	Ducklett	f	1	Water	Flying	44	50	62	55	44	50	Keen Eye	Big Pecks
+581	Swanna	f	1	Water	Flying	87	63	75	98	87	63	Keen Eye	Big Pecks
+582	Vanillite	f	1	Ice		50	50	36	44	65	60	Ice Body	Snow Cloak
+583	Vanillish	f	1	Ice		65	65	51	59	80	75	Ice Body	Snow Cloak
+584	Vanilluxe	f	1	Ice		95	85	71	79	110	95	Ice Body	Snow Warning
+585	Deerling	f	1	Normal	Grass	60	50	60	75	40	50	Chlorophyll	Sap Sipper
+586	Sawsbuck	f	1	Normal	Grass	100	70	80	95	60	70	Chlorophyll	Sap Sipper
+587	Emolga	f	1	Electric	Flying	75	60	55	103	75	60	Static	
+588	Karrablast	f	1	Bug		75	45	50	60	40	45	Swarm	Shed Skin
+589	Escavalier	f	1	Bug	Steel	135	105	70	20	60	105	Swarm	Shell Armor
+590	Foongus	f	1	Grass	Poison	55	45	69	15	55	55	Effect Spore	
+591	Amoonguss	f	1	Grass	Poison	85	70	114	30	85	80	Effect Spore	
+592	Frillish	f	1	Water	Ghost	40	50	55	40	65	85	Water Absorb	Cursed Body
+593	Jellicent	f	1	Water	Ghost	60	70	100	60	85	105	Water Absorb	Cursed Body
+594	Alomomola	f	1	Water		75	80	165	65	40	45	Healer	Hydration
+595	Joltik	f	1	Bug	Electric	47	50	50	65	57	50	Compound Eyes	Unnerve
+596	Galvantula	f	1	Bug	Electric	77	60	70	108	97	60	Compound Eyes	Unnerve
+597	Ferroseed	f	1	Grass	Steel	50	91	44	10	24	86	Iron Barbs	
+598	Ferrothorn	f	1	Grass	Steel	94	131	74	20	54	116	Iron Barbs	
+599	Klink	f	1	Steel		55	70	40	30	45	60	Plus	Minus
+600	Klang	f	1	Steel		80	95	60	50	70	85	Plus	Minus
+601	Klinklang	f	1	Steel		100	115	60	90	70	85	Plus	Minus
+602	Tynamo	f	1	Electric		55	40	35	60	45	40	Levitate	
+603	Eelektrik	f	1	Electric		85	70	65	40	75	70	Levitate	
+604	Eelektross	f	1	Electric		115	80	85	50	105	80	Levitate	
+605	Elgyem	f	1	Psychic		55	55	55	30	85	55	Telepathy	Synchronize
+606	Beheeyem	f	1	Psychic		75	75	75	40	125	95	Telepathy	Synchronize
+607	Litwick	f	1	Ghost	Fire	30	55	50	20	65	55	Flash Fire	Flame Body
+608	Lampent	f	1	Ghost	Fire	40	60	60	55	95	60	Flash Fire	Flame Body
+609	Chandelure	f	1	Ghost	Fire	55	90	60	80	145	90	Flash Fire	Flame Body
+610	Axew	f	1	Dragon		87	60	46	57	30	40	Rivalry	Mold Breaker
+611	Fraxure	f	1	Dragon		117	70	66	67	40	50	Rivalry	Mold Breaker
+612	Haxorus	f	1	Dragon		147	90	76	97	60	70	Rivalry	Mold Breaker
+613	Cubchoo	f	1	Ice		70	40	55	40	60	40	Snow Cloak	Slush Rush
+614	Beartic	f	1	Ice		130	80	95	50	70	80	Snow Cloak	Slush Rush
+615	Cryogonal	f	1	Ice		50	50	80	105	95	135	Levitate	
+616	Shelmet	f	1	Bug		40	85	50	25	40	65	Hydration	Shell Armor
+617	Accelgor	f	1	Bug		70	40	80	145	100	60	Hydration	Sticky Hold
+618	Stunfisk	f	1	Ground	Electric	66	84	109	32	81	99	Static	Limber
+619	Mienfoo	f	1	Fighting		85	50	45	65	55	50	Inner Focus	Regenerator
+620	Mienshao	f	1	Fighting		125	60	65	105	95	60	Inner Focus	Regenerator
+621	Druddigon	f	1	Dragon		120	90	77	48	60	90	Rough Skin	Sheer Force
+622	Golett	f	1	Ground	Ghost	74	50	59	35	35	50	Iron Fist	Klutz
+623	Golurk	f	1	Ground	Ghost	124	80	89	55	55	80	Iron Fist	Klutz
+624	Pawniard	f	1	Dark	Steel	85	70	45	60	40	40	Defiant	Inner Focus
+625	Bisharp	f	1	Dark	Steel	125	100	65	70	60	70	Defiant	Inner Focus
+626	Bouffalant	f	1	Normal		110	95	95	55	40	95	Reckless	Sap Sipper
+627	Rufflet	f	1	Normal	Flying	83	50	70	60	37	50	Keen Eye	Sheer Force
+628	Braviary	f	1	Normal	Flying	123	75	100	80	57	75	Keen Eye	Sheer Force
+629	Vullaby	f	1	Dark	Flying	55	75	70	60	45	65	Big Pecks	Overcoat
+630	Mandibuzz	f	1	Dark	Flying	65	105	110	80	55	95	Big Pecks	Overcoat
+631	Heatmor	f	1	Fire		97	66	85	65	105	66	Gluttony	Flash Fire
+632	Durant	f	1	Bug	Steel	109	112	58	109	48	48	Swarm	Hustle
+633	Deino	f	1	Dark	Dragon	65	50	52	38	45	50	Hustle	
+634	Zweilous	f	1	Dark	Dragon	85	70	72	58	65	70	Hustle	
+635	Hydreigon	f	1	Dark	Dragon	105	90	92	98	125	90	Levitate	
+636	Larvesta	f	1	Bug	Fire	85	55	55	60	50	55	Flame Body	
+637	Volcarona	f	1	Bug	Fire	60	65	85	100	135	105	Flame Body	
+638	Cobalion	f	1	Steel	Fighting	90	129	91	108	90	72	Justified	
+639	Terrakion	f	1	Rock	Fighting	129	90	91	108	72	90	Justified	
+640	Virizion	f	1	Grass	Fighting	90	72	91	108	90	129	Justified	
+641	Tornadus	f	1	Flying		115	70	79	111	125	80	Prankster	
+642	Thundurus	f	1	Electric	Flying	115	70	79	111	125	80	Prankster	
+643	Reshiram	f	1	Dragon	Fire	120	100	100	90	150	120	Turboblaze	
+644	Zekrom	f	1	Dragon	Electric	150	120	100	90	120	100	Teravolt	
+645	Landorus	f	1	Ground	Flying	125	90	89	101	115	80	Sand Force	
+646	Kyurem	f	1	Dragon	Ice	130	90	125	95	130	90	Pressure	
+647	Keldeo	f	1	Water	Fighting	72	90	91	108	129	90	Justified	
+648	Meloetta	f	1	Normal	Psychic	77	77	100	90	128	128	Serene Grace	
+649	Genesect	f	1	Bug	Steel	120	95	71	99	120	95	Download	
+650	Chespin	f	1	Grass		61	65	56	38	48	45	Overgrow	
+651	Quilladin	f	1	Grass		78	95	61	57	56	58	Overgrow	
+652	Chesnaught	f	1	Grass	Fighting	107	122	88	64	74	75	Overgrow	
+653	Fennekin	f	1	Fire		45	40	40	60	62	60	Blaze	
+654	Braixen	f	1	Fire		59	58	59	73	90	70	Blaze	
+655	Delphox	f	1	Fire	Psychic	69	72	75	104	114	100	Blaze	
+656	Froakie	f	1	Water		56	40	41	71	62	44	Torrent	
+657	Frogadier	f	1	Water		63	52	54	97	83	56	Torrent	
+658	Greninja	f	1	Water	Dark	95	67	72	122	103	71	Torrent	Torrent
+659	Bunnelby	f	1	Normal		36	38	38	57	32	36	Pickup	Cheek Pouch
+660	Diggersby	f	1	Normal	Ground	56	77	85	78	50	77	Pickup	Cheek Pouch
+661	Fletchling	f	1	Normal	Flying	50	43	45	62	40	38	Big Pecks	
+662	Fletchinder	f	1	Fire	Flying	73	55	62	84	56	52	Flame Body	
+663	Talonflame	f	1	Fire	Flying	81	71	78	126	74	69	Flame Body	
+664	Scatterbug	f	1	Bug		35	40	38	35	27	25	Shield Dust	Compound Eyes
+665	Spewpa	f	1	Bug		22	60	45	29	27	30	Shed Skin	
+666	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+667	Litleo	f	1	Fire	Normal	50	58	62	72	73	54	Rivalry	Unnerve
+668	Pyroar	f	1	Fire	Normal	68	72	86	106	109	66	Rivalry	Unnerve
+669	Flabébé	f	1	Fairy		38	39	44	42	61	79	Flower Veil	
+670	Floette	f	1	Fairy		45	47	54	52	75	98	Flower Veil	
+671	Florges	f	1	Fairy		65	68	78	75	112	154	Flower Veil	
+672	Skiddo	f	1	Grass		65	48	66	52	62	57	Sap Sipper	
+673	Gogoat	f	1	Grass		100	62	123	68	97	81	Sap Sipper	
+674	Pancham	f	1	Dark		82	62	67	43	46	48	Iron Fist	Mold Breaker
+675	Pangoro	f	1	Dark	Fighting	124	78	95	58	69	71	Iron Fist	Mold Breaker
+676	Furfrou	f	1	Normal		80	60	75	102	65	90	Fur Coat	
+677	Espurr	f	1	Psychic		48	54	62	68	63	60	Keen Eye	Infiltrator
+678	Meowstic	f	1	Psychic		48	76	74	104	83	81	Keen Eye	Infiltrator
+679	Honedge	f	1	Steel	Ghost	80	100	45	28	35	37	No Guard	
+680	Doublade	f	1	Steel	Ghost	110	150	59	35	45	49	No Guard	
+681	Aegislash	f	1	Steel	Ghost	50	150	60	60	50	150	Stance Change	
+682	Spritzee	f	1	Fairy		52	60	78	23	63	65	Healer	
+683	Aromatisse	f	1	Fairy		72	72	101	29	99	89	Healer	
+684	Swirlix	f	1	Fairy		48	66	62	49	59	57	Sweet Veil	
+685	Slurpuff	f	1	Fairy		80	86	82	72	85	75	Sweet Veil	
+686	Inkay	f	1	Dark	Psychic	54	53	53	45	37	46	Contrary	Suction Cups
+687	Malamar	f	1	Dark	Psychic	92	88	86	73	68	75	Contrary	Suction Cups
+688	Binacle	f	1	Rock	Water	52	67	42	50	39	56	Tough Claws	Sniper
+689	Barbaracle	f	1	Rock	Water	105	115	72	68	54	86	Tough Claws	Sniper
+690	Skrelp	f	1	Poison	Water	60	60	50	30	60	60	Poison Point	Poison Touch
+691	Dragalge	f	1	Poison	Dragon	75	90	65	44	97	123	Poison Point	Poison Touch
+692	Clauncher	f	1	Water		53	62	50	44	58	63	Mega Launcher	
+693	Clawitzer	f	1	Water		73	88	71	59	120	89	Mega Launcher	
+694	Helioptile	f	1	Electric	Normal	38	33	44	70	61	43	Dry Skin	Sand Veil
+695	Heliolisk	f	1	Electric	Normal	55	52	62	109	109	94	Dry Skin	Sand Veil
+696	Tyrunt	f	1	Rock	Dragon	89	77	58	48	45	45	Strong Jaw	
+697	Tyrantrum	f	1	Rock	Dragon	121	119	82	71	69	59	Strong Jaw	
+698	Amaura	f	1	Rock	Ice	59	50	77	46	67	63	Refrigerate	
+699	Aurorus	f	1	Rock	Ice	77	72	123	58	99	92	Refrigerate	
+700	Sylveon	f	1	Fairy		65	65	95	60	110	130	Cute Charm	
+701	Hawlucha	f	1	Fighting	Flying	92	75	78	118	74	63	Limber	Unburden
+702	Dedenne	f	1	Electric	Fairy	58	57	67	101	81	67	Cheek Pouch	Pickup
+703	Carbink	f	1	Rock	Fairy	50	150	50	50	50	150	Clear Body	
+704	Goomy	f	1	Dragon		50	35	45	40	55	75	Sap Sipper	Hydration
+705	Sliggoo	f	1	Dragon		75	53	68	60	83	113	Sap Sipper	Hydration
+706	Goodra	f	1	Dragon		100	70	90	80	110	150	Sap Sipper	Hydration
+707	Klefki	f	1	Steel	Fairy	80	91	57	75	80	87	Prankster	
+708	Phantump	f	1	Ghost	Grass	70	48	43	38	50	60	Natural Cure	Frisk
+709	Trevenant	f	1	Ghost	Grass	110	76	85	56	65	82	Natural Cure	Frisk
+710	Pumpkaboo	f	1	Ghost	Grass	66	70	49	51	44	55	Pickup	Frisk
+711	Gourgeist	f	1	Ghost	Grass	90	122	65	84	58	75	Pickup	Frisk
+712	Bergmite	f	1	Ice		69	85	55	28	32	35	Own Tempo	Ice Body
+713	Avalugg	f	1	Ice		117	184	95	28	44	46	Own Tempo	Ice Body
+714	Noibat	f	1	Flying	Dragon	30	35	40	55	45	40	Frisk	Infiltrator
+715	Noivern	f	1	Flying	Dragon	70	80	85	123	97	80	Frisk	Infiltrator
+716	Xerneas	f	1	Fairy		131	95	126	99	131	98	Fairy Aura	
+717	Yveltal	f	1	Dark	Flying	131	95	126	99	131	98	Dark Aura	
+718	Zygarde	f	1	Dragon	Ground	100	121	108	95	81	95	Aura Break	
+719	Diancie	f	1	Rock	Fairy	100	150	50	50	100	150	Clear Body	
+720	Hoopa	f	1	Psychic	Ghost	110	60	80	70	150	130	Magician	
+721	Volcanion	f	1	Fire	Water	110	120	80	70	130	90	Water Absorb	
+722	Rowlet	f	1	Grass	Flying	55	55	68	42	50	50	Overgrow	Overgrow
+723	Dartrix	f	1	Grass	Flying	75	75	78	52	70	70	Overgrow	Overgrow
+724	Decidueye	f	1	Grass	Ghost	107	75	78	70	100	100	Overgrow	Overgrow
+725	Litten	f	1	Fire		65	40	45	70	60	40	Blaze	Blaze
+726	Torracat	f	1	Fire		85	50	65	90	80	50	Blaze	Blaze
+727	Incineroar	f	1	Fire	Dark	115	90	95	60	80	90	Blaze	Blaze
+728	Popplio	f	1	Water		54	54	50	40	66	56	Torrent	Torrent
+729	Brionne	f	1	Water		69	69	60	50	91	81	Torrent	Torrent
+730	Primarina	f	1	Water	Fairy	74	74	80	60	126	116	Torrent	Torrent
+731	Pikipek	f	1	Normal	Flying	75	30	35	65	30	30	Keen Eye	Skill Link
+732	Trumbeak	f	1	Normal	Flying	85	50	55	75	40	50	Keen Eye	Skill Link
+733	Toucannon	f	1	Normal	Flying	120	75	80	60	75	75	Keen Eye	Skill Link
+734	Yungoos	f	1	Normal		70	30	48	45	30	30	Stakeout	Strong Jaw
+735	Gumshoos	f	1	Normal		110	60	88	45	55	60	Stakeout	Strong Jaw
+736	Grubbin	f	1	Bug		62	45	47	46	55	45	Swarm	Swarm
+737	Charjabug	f	1	Bug	Electric	82	95	57	36	55	75	Battery	Battery
+738	Vikavolt	f	1	Bug	Electric	70	90	77	43	145	75	Levitate	Levitate
+739	Crabrawler	f	1	Fighting		82	57	47	63	42	47	Hyper Cutter	Iron Fist
+740	Crabominable	f	1	Fighting	Ice	132	77	97	43	62	67	Hyper Cutter	Iron Fist
+741	Oricorio	f	1	Fire	Flying	70	70	75	93	98	70	Dancer	Dancer
+742	Cutiefly	f	1	Bug	Fairy	45	40	40	84	55	40	Honey Gather	Shield Dust
+743	Ribombee	f	1	Bug	Fairy	55	60	60	124	95	70	Honey Gather	Shield Dust
+744	Rockruff	f	1	Rock		65	40	45	60	30	40	Keen Eye	Vital spirit
+745	Lycanroc	f	1	Rock		115	65	75	112	55	65	Keen Eye	Sand Rush
+746	Wishiwashi	f	1	Water		20	20	45	40	25	25	Schooling	Schooling
+747	Mareanie	f	1	Poison	Water	53	62	50	45	43	52	Merciless	Limber
+748	Toxapex	f	1	Poison	Water	63	152	50	35	53	142	Merciless	Limber
+749	Mudbray	f	1	Ground		100	70	70	45	45	55	Own Tempo	Stamina
+750	Mudsdale	f	1	Ground		125	100	100	35	55	85	Own Tempo	Stamina
+751	Dewpider	f	1	Water	Bug	40	52	38	27	40	72	Water Bubble	Water Bubble
+752	Araquanid	f	1	Water	Bug	70	92	68	42	50	132	Water Bubble	Water Bubble
+753	Fomantis	f	1	Grass		55	35	40	35	50	35	Leaf Guard	Leaf Guard
+754	Lurantis	f	1	Grass		105	90	70	45	80	90	Leaf Guard	Leaf Guard
+755	Morelull	f	1	Grass	Fairy	35	55	40	15	65	75	Illuminate	Effect Spore
+756	Shiinotic	f	1	Grass	Fairy	45	80	60	30	90	100	Illuminate	Effect Spore
+757	Salandit	f	1	Poison	Fire	44	40	48	77	71	40	Corrosion	Corrosion
+758	Salazzle	f	1	Poison	Fire	64	60	68	117	111	60	Corrosion	Corrosion
+759	Stufful	f	1	Normal	Fighting	75	50	70	50	45	50	Fluffy	Klutz
+760	Bewear	f	1	Normal	Fighting	125	80	120	60	55	60	Fluffy	Klutz
+761	Bounsweet	f	1	Grass		30	38	42	32	30	38	Leaf Guard	Oblivious
+762	Steenee	f	1	Grass		40	48	52	62	40	48	Leaf Guard	Oblivious
+763	Tsareena	f	1	Grass		120	98	72	72	50	98	Leaf Guard	Queenly Majesty
+764	Comfey	f	1	Fairy		52	90	51	100	82	110	Flower Veil	Triage
+765	Oranguru	f	1	Normal	Psychic	60	80	90	60	90	110	Inner Focus	Telepahty
+766	Passimian	f	1	Fighting		120	90	100	80	40	60	Receiver	Receiver
+767	Wimpod	f	1	Bug	Water	35	40	25	80	20	30	Wimp Out	Wimp Out
+768	Golisopod	f	1	Bug	Water	125	140	75	40	60	90	Emergency Exit	Emergency Exit
+769	Sandygast	f	1	Ghost	Ground	55	80	55	15	70	45	Water Compaction	Water Compaction
+770	Palossand	f	1	Ghost	Ground	75	110	85	35	100	75	Water Compaction	Water Compaction
+771	Pyukumuku	f	1	Water		60	130	55	5	30	130	Innards Out	Innards Out
+772	Type: Null	f	1	Normal		95	95	95	59	95	95	Battle Armor	Battle Armor
+773	Silvally	f	1	Normal		95	95	95	95	95	95	RKS System	RKS System
+774	Minior	f	1	Rock	Flying	60	100	60	60	60	100	Shields Down	Shields Down
+775	Komala	f	1	Normal		115	65	65	65	75	95	Comatose	Comatose
+776	Turtonator	f	1	Fire	Dragon	78	135	60	36	91	85	Shell Armor	Shell Armor
+777	Togedemaru	f	1	Electric	Steel	98	63	65	96	40	73	Iron Barbs	Lightning Rod
+778	Mimikyu	f	1	Ghost	Fairy	90	80	55	96	50	105	Disguise	Disguise
+779	Bruxish	f	1	Water	Psychic	105	70	68	92	70	70	Dazzling	Strong Jaw
+780	Drampa	f	1	Normal	Dragon	60	85	78	36	135	91	Berserk	Sap Sipper
+781	Dhelmise	f	1	Ghost	Grass	131	100	70	40	86	90	Steelworker	Steelworker
+782	Jangmo-o	f	1	Dragon		55	65	45	45	45	45	Bulletproof	Soundproof
+783	Hakamo-o	f	1	Dragon	Fighting	75	90	55	65	65	70	Bulletproof	Soundproof
+784	Kommo-o	f	1	Dragon	Fighting	110	125	75	85	100	105	Bulletproof	Soundproof
+785	Tapu Koko	f	1	Electric	Fairy	115	85	70	130	95	75	Electric Surge	Electric Surge
+786	Tapu Lele	f	1	Psychic	Fairy	85	75	70	95	130	115	Psychic Surge	Psychic Surge
+787	Tapu Bulu	f	1	Grass	Fairy	130	115	70	75	85	95	Grassy Surge	Grassy Surge
+788	Tapu Fini	f	1	Water	Fairy	75	115	70	85	95	130	Misty Surge	Misty Surge
+789	Cosmog	f	1	Psychic		29	31	43	37	29	31	Unaware	Unaware
+790	Cosmoem	f	1	Psychic		29	131	43	37	29	131	Sturdy	Sturdy
+791	Solgaleo	f	1	Psychic	Steel	137	107	137	97	113	89	Full Metal Body	Full Metal Body
+792	Lunala	f	1	Psychic	Ghost	113	89	137	97	137	107	Shadow Shield	Shadow Shield
+793	Nihilego	f	1	Rock	Poison	53	47	109	103	127	131	Beast Boost	Beast Boost
+794	Buzzwole	f	1	Bug	Fighting	139	139	107	79	53	53	Beast Boost	Beast Boost
+795	Pheromosa	f	1	Bug	Fighting	137	37	71	151	137	37	Beast Boost	Beast Boost
+796	Xurkitree	f	1	Electric		89	71	83	83	173	71	Beast Boost	Beast Boost
+797	Celesteela	f	1	Steel	Flying	101	103	97	61	107	101	Beast Boost	Beast Boost
+798	Kartana	f	1	Grass	Steel	181	131	59	109	59	31	Beast Boost	Beast Boost
+799	Guzzlord	f	1	Dark	Dragon	101	53	223	43	97	53	Beast Boost	Beast Boost
+800	Necrozma	f	1	Psychic		107	101	97	79	127	89	Prism Armor	Prism Armor
+801	Magearna	f	1	Steel	Fairy	95	115	80	65	130	115	Soul-Heart	Soul-Heart
+802	Marshadow	f	1	Fighting	Ghost	125	80	90	125	90	90	Technician	Technician
+804	Venusaur	f	1	Grass	Poison	100	123	80	80	122	120	Thick Fat	
+807	Blastoise	f	1	Water		103	120	79	78	135	115	Mega Launcher	
+808	Beedrill	f	1	Bug	Poison	150	40	65	145	15	80	Adaptability	Adaptability
+809	Pidgeot	f	1	Normal	Flying	80	80	83	121	135	80	No Guard	No Guard
+810	Rattata	f	1	Dark	Normal	56	35	30	72	25	35	Gluttony	Hustle
+811	Raticate	f	1	Dark	Normal	71	70	75	77	40	80	Gluttony	Hustle
+812	Raticate	f	1	Dark	Normal	71	70	75	77	40	80	Gluttony	Hustle
+813	Pikachu	f	1	Electric		55	40	35	90	50	50	Static	Static
+814	Pikachu	f	1	Electric		55	40	35	90	50	50	Static	Static
+815	Pikachu	f	1	Electric		55	40	35	90	50	50	Static	Static
+816	Pikachu	f	1	Electric		55	40	35	90	50	50	Static	Static
+817	Pikachu	f	1	Electric		55	40	35	90	50	50	Static	Static
+818	Pikachu	f	1	Electric		55	40	35	90	50	50	Static	Static
+819	Raichu	f	1	Electric	Psychic	85	50	60	110	95	85	Surge Surfer	Surge Surfer
+820	Sandshrew	f	1	Ice	Steel	75	90	50	40	10	35	Snow Cloak	Snow Cloak
+821	Sandslash	f	1	Ice	Steel	100	120	75	65	25	65	Snow Cloak	Snow Cloak
+822	Vulpix	f	1	Ice		41	40	38	65	50	65	Snow Cloak	Snow Cloak
+823	Ninetales	f	1	Ice	Fairy	67	75	73	109	81	100	Snow Cloak	Snow Cloak
+824	Diglett	f	1	Ground	Steel	55	30	10	90	35	45	Sand Veil	Tangling Hair
+825	Dugtrio	f	1	Ground	Steel	100	60	35	110	50	70	Sand Veil	Tangling Hair
+826	Meowth	f	1	Dark		35	35	40	90	50	40	Pickup	Technician
+827	Persian	f	1	Dark		60	60	65	115	75	65	Fur Coat	Technician
+828	Alakazam	f	1	Psychic		50	65	55	150	175	95	Trace	
+829	Geodude	f	1	Rock	Electric	80	100	40	20	30	30	Magnet Pull	Sturdy
+830	Graveler	f	1	Rock	Electric	95	115	55	35	45	45	Magnet Pull	Sturdy
+831	Golem	f	1	Rock	Electric	120	130	80	45	55	65	Magnet Pull	Sturdy
+832	Slowbro	f	1	Water	Psychic	75	180	95	30	130	80	Shell Armor	
+833	Grimer	f	1	Poison	Dark	80	50	80	25	40	50	Poison Touch	Gluttony
+834	Muk	f	1	Poison	Dark	105	75	105	50	65	100	Poison Touch	Gluttony
+835	Gengar	f	1	Ghost	Poison	65	80	60	130	170	95	Shadow Tag	
+836	Exeggutor	f	1	Grass	Dragon	105	85	95	45	125	75	Frisk	Frisk
+837	Marowak	f	1	Fire	Ghost	80	110	60	45	50	80	Cursed Body	Lightning Rod
+838	Kangaskhan	f	1	Normal		125	100	105	100	60	100	Parental Bond	
+839	Pinsir	f	1	Bug		155	120	65	105	65	90	Aerilate	
+840	Gyarados	f	1	Water	Flying	155	109	95	81	70	130	Mold Breaker	
+841	Aerodactyl	f	1	Rock	Flying	135	85	80	150	70	95	Tough Claws	
+842	Mewtwo	f	1	Psychic	Fighting	190	100	106	130	154	100	Steadfast	
+843	Mewtwo	f	1	Psychic		150	70	106	140	194	120	Insomnia	
+844	Ampharos	f	1	Electric		95	105	90	45	165	110	Mold Breaker	
+845	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+846	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+847	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+848	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+849	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+850	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+851	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+852	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+853	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+854	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+855	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+856	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+857	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+858	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+859	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+860	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+861	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+862	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+863	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+864	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+865	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+866	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+867	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+868	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+869	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+870	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+871	Unown	f	1	Psychic		72	48	48	48	72	48	Levitate	
+872	Steelix	f	1	Steel	Ground	125	230	75	30	55	95	Sand Force	
+873	Scizor	f	1	Bug	Steel	150	140	70	75	65	100	Technician	
+874	Heracross	f	1	Bug	Fighting	185	115	80	75	40	105	Skill Link	
+875	Houndoom	f	1	Dark	Fire	90	90	75	115	140	90	Solar Power	
+876	Tyranitar	f	1	Rock	Dark	164	150	100	71	95	120	Sand Stream	
+877	Sceptile	f	1	Grass		110	75	70	145	145	85	Lightning Rod	
+878	Blaziken	f	1	Fire	Fighting	160	80	80	100	130	80	Speed Boost	
+879	Swampert	f	1	Water	Ground	150	110	100	70	95	110	Swift Swim	
+880	Gardevoir	f	1	Psychic	Fairy	85	65	68	100	165	135	Pixilate	
+881	Sableye	f	1	Dark	Ghost	85	125	50	20	85	115	Magic Bounce	
+882	Mawile	f	1	Steel	Fairy	105	125	50	50	55	95	Huge Power	
+883	Aggron	f	1	Steel	Rock	140	230	70	50	60	80	Filter	
+884	Medicham	f	1	Fighting	Psychic	100	85	60	100	80	85	Pure Power	
+885	Manectric	f	1	Electric		75	80	70	135	135	80	Intimidate	
+886	Sharpedo	f	1	Water	Dark	140	70	70	105	110	65	Strong Jaw	
+887	Camerupt	f	1	Fire	Ground	120	100	70	20	145	105	Sheer Force	
+888	Altaria	f	1	Dragon	Fairy	110	110	75	80	110	105	Pixilate	
+889	Castform	f	1	Fire		70	70	70	70	70	70	Forecast	
+890	Castform	f	1	Water		70	70	70	70	70	70	Forecast	
+891	Castform	f	1	Ice		70	70	70	70	70	70	Forecast	
+892	Banette	f	1	Ghost		165	75	64	75	93	83	Prankster	
+893	Absol	f	1	Dark		150	60	65	115	115	60	Magic Bounce	
+894	Glalie	f	1	Ice		120	80	80	100	120	80	Refrigerate	
+895	Salamence	f	1	Dragon	Flying	145	130	95	120	120	90	Aerilate	
+896	Metagross	f	1	Steel	Psychic	145	150	80	110	105	110	Tough Claws	
+897	Latias	f	1	Dragon	Psychic	100	120	80	110	140	150	Levitate	
+898	Latios	f	1	Dragon	Psychic	130	100	80	110	160	120	Levitate	
+899	Kyogre	f	1	Water		150	90	100	90	180	160	Primordial Sea	
+900	Groudon	f	1	Ground	Fire	180	160	100	90	150	90	Desolate Land	
+901	Rayquaza	f	1	Dragon	Flying	180	100	105	115	180	100	Delta Stream	
+902	Deoxys	f	1	Psychic		180	20	50	150	180	20	Pressure	
+903	Deoxys	f	1	Psychic		70	160	50	90	70	160	Pressure	
+904	Deoxys	f	1	Psychic		95	90	50	180	95	90	Pressure	
+905	Burmy	f	1	Bug		29	45	40	36	29	45	Shed Skin	
+906	Burmy	f	1	Bug		29	45	40	36	29	45	Shed Skin	
+907	Wormadam	f	1	Bug	Ground	79	105	60	36	59	85	Anticipation	
+908	Wormadam	f	1	Bug	Steel	69	95	60	36	69	95	Anticipation	
+909	Cherrim	f	1	Grass		60	70	70	85	87	78	Flower Gift	
+910	Shellos	f	1	Water		48	48	76	34	57	62	Sticky Hold	Storm Drain
+911	Gastrodon	f	1	Water	Ground	83	68	111	39	92	82	Sticky Hold	Storm Drain
+912	Lopunny	f	1	Normal	Fighting	136	94	65	135	54	96	Scrappy	
+913	Garchomp	f	1	Dragon	Ground	170	115	108	92	120	95	Sand Force	
+914	Lucario	f	1	Fighting	Steel	145	88	70	112	140	70	Adaptability	
+915	Abomasnow	f	1	Grass	Ice	132	105	90	30	132	105	Snow Warning	
+916	Gallade	f	1	Psychic	Fighting	165	95	68	110	65	115	Inner Focus	
+917	Rotom	f	1	Electric	Fire	65	107	50	86	105	107	Levitate	
+918	Rotom	f	1	Electric	Water	65	107	50	86	105	107	Levitate	
+919	Rotom	f	1	Electric	Ice	65	107	50	86	105	107	Levitate	
+920	Rotom	f	1	Electric	Flying	65	107	50	86	105	107	Levitate	
+921	Rotom	f	1	Electric	Grass	65	107	50	86	105	107	Levitate	
+922	Giratina	f	1	Ghost	Dragon	120	100	150	90	120	100	Levitate	
+923	Shaymin	f	1	Grass	Flying	103	75	100	127	120	75	Serene Grace	
+924	Arceus	f	1	Fighting		120	120	120	120	120	120	Multitype	
+925	Arceus	f	1	Flying		120	120	120	120	120	120	Multitype	
+926	Arceus	f	1	Poison		120	120	120	120	120	120	Multitype	
+927	Arceus	f	1	Ground		120	120	120	120	120	120	Multitype	
+928	Arceus	f	1	Rock		120	120	120	120	120	120	Multitype	
+929	Arceus	f	1	Bug		120	120	120	120	120	120	Multitype	
+930	Arceus	f	1	Ghost		120	120	120	120	120	120	Multitype	
+931	Arceus	f	1	Steel		120	120	120	120	120	120	Multitype	
+932	Arceus	f	1	Fire		120	120	120	120	120	120	Multitype	
+933	Arceus	f	1	Water		120	120	120	120	120	120	Multitype	
+934	Arceus	f	1	Grass		120	120	120	120	120	120	Multitype	
+935	Arceus	f	1	Electric		120	120	120	120	120	120	Multitype	
+936	Arceus	f	1	Psychic		120	120	120	120	120	120	Multitype	
+937	Arceus	f	1	Ice		120	120	120	120	120	120	Multitype	
+938	Arceus	f	1	Dragon		120	120	120	120	120	120	Multitype	
+939	Arceus	f	1	Dark		120	120	120	120	120	120	Multitype	
+940	Arceus	f	1	Fairy		120	120	120	120	120	120	Multitype	
+941	Audino	f	1	Normal	Fairy	60	126	103	50	80	126	Healer	
+942	Basculin	f	1	Water		92	65	70	98	80	55	Rock Head	Adaptability
+943	Darmanitan	f	1	Fire	Psychic	30	105	105	55	140	105	Zen Mode	
+944	Deerling	f	1	Normal	Grass	60	50	60	75	40	50	Chlorophyll	Sap Sipper
+945	Deerling	f	1	Normal	Grass	60	50	60	75	40	50	Chlorophyll	Sap Sipper
+946	Deerling	f	1	Normal	Grass	60	50	60	75	40	50	Chlorophyll	Sap Sipper
+947	Sawsbuck	f	1	Normal	Grass	100	70	80	95	60	70	Chlorophyll	Sap Sipper
+948	Sawsbuck	f	1	Normal	Grass	100	70	80	95	60	70	Chlorophyll	Sap Sipper
+949	Sawsbuck	f	1	Normal	Grass	100	70	80	95	60	70	Chlorophyll	Sap Sipper
+950	Tornadus	f	1	Flying		100	80	79	121	110	90	Regenerator	
+951	Thundurus	f	1	Electric	Flying	105	70	79	101	145	80	Volt Absorb	
+952	Landorus	f	1	Ground	Flying	145	90	89	91	105	80	Intimidate	
+953	Kyurem	f	1	Dragon	Ice	120	90	125	95	170	100	Turboblaze	
+954	Kyurem	f	1	Dragon	Ice	170	100	125	95	120	90	Teravolt	
+955	Keldeo	f	1	Water	Fighting	72	90	91	108	129	90	Justified	
+956	Meloetta	f	1	Normal	Fighting	128	90	100	128	77	77	Serene Grace	
+957	Genesect	f	1	Bug	Steel	120	95	71	99	120	95	Download	
+958	Genesect	f	1	Bug	Steel	120	95	71	99	120	95	Download	
+959	Genesect	f	1	Bug	Steel	120	95	71	99	120	95	Download	
+960	Genesect	f	1	Bug	Steel	120	95	71	99	120	95	Download	
+961	Greninja	f	1	Water	Dark	95	67	72	122	103	71	Battle Bond	Battle Bond
+962	Greninja	f	1	Water	Dark	145	67	72	132	153	71	Battle Bond	Battle Bond
+963	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+964	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+965	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+966	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+967	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+968	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+969	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+970	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+971	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+972	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+973	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+974	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+975	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+976	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+977	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+978	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+979	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+980	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+981	Vivillon	f	1	Bug	Flying	52	50	80	89	90	50	Shield Dust	Compound Eyes
+982	Flabébé	f	1	Fairy		38	39	44	42	61	79	Flower Veil	
+983	Flabébé	f	1	Fairy		38	39	44	42	61	79	Flower Veil	
+984	Flabébé	f	1	Fairy		38	39	44	42	61	79	Flower Veil	
+985	Flabébé	f	1	Fairy		38	39	44	42	61	79	Flower Veil	
+986	Floette	f	1	Fairy		45	47	54	52	75	98	Flower Veil	
+987	Floette	f	1	Fairy		45	47	54	52	75	98	Flower Veil	
+988	Floette	f	1	Fairy		45	47	54	52	75	98	Flower Veil	
+989	Floette	f	1	Fairy		45	47	54	52	75	98	Flower Veil	
+990	Floette	f	1	Fairy		65	67	74	92	125	128	Flower Veil	
+991	Florges	f	1	Fairy		65	68	78	75	112	154	Flower Veil	
+992	Florges	f	1	Fairy		65	68	78	75	112	154	Flower Veil	
+993	Florges	f	1	Fairy		65	68	78	75	112	154	Flower Veil	
+994	Florges	f	1	Fairy		65	68	78	75	112	154	Flower Veil	
+995	Furfrou	f	1	Normal		80	60	75	102	65	90	Fur Coat	
+996	Furfrou	f	1	Normal		80	60	75	102	65	90	Fur Coat	
+997	Furfrou	f	1	Normal		80	60	75	102	65	90	Fur Coat	
+998	Furfrou	f	1	Normal		80	60	75	102	65	90	Fur Coat	
+999	Furfrou	f	1	Normal		80	60	75	102	65	90	Fur Coat	
+1000	Furfrou	f	1	Normal		80	60	75	102	65	90	Fur Coat	
+1001	Furfrou	f	1	Normal		80	60	75	102	65	90	Fur Coat	
+1002	Furfrou	f	1	Normal		80	60	75	102	65	90	Fur Coat	
+1003	Furfrou	f	1	Normal		80	60	75	102	65	90	Fur Coat	
+1004	Meowstic	f	1	Psychic		48	76	74	104	83	81	Keen Eye	Infiltrator
+1005	Aegislash	f	1	Steel	Ghost	150	50	60	60	150	50	Stance Change	
+1006	Pumpkaboo	f	1	Ghost	Grass	66	70	44	56	44	55	Pickup	Frisk
+1007	Pumpkaboo	f	1	Ghost	Grass	66	70	54	46	44	55	Pickup	Frisk
+1008	Pumpkaboo	f	1	Ghost	Grass	66	70	59	41	44	55	Pickup	Frisk
+1009	Gourgeist	f	1	Ghost	Grass	85	122	55	99	58	75	Pickup	Frisk
+1010	Gourgeist	f	1	Ghost	Grass	95	122	75	69	58	75	Pickup	Frisk
+1011	Gourgeist	f	1	Ghost	Grass	100	122	85	54	58	75	Pickup	Frisk
+1012	Xerneas	f	1	Fairy		131	95	126	99	131	98	Fairy Aura	
+1013	Zygarde	f	1	Dragon	Ground	100	71	54	115	61	85	Power Construct	Power Construct
+1014	Zygarde	f	1	Dragon	Ground	100	71	54	115	61	85		
+1015	Zygarde	f	1	Dragon	Ground	100	121	108	95	81	95		
+1016	Zygarde	f	1	Dragon	Ground	100	121	216	85	91	95	Power Construct	Power Construct
+1017	Diancie	f	1	Rock	Fairy	160	110	50	110	160	110	Magic Bounce	
+1018	Hoopa	f	1	Psychic	Dark	160	60	80	80	170	130	Magician	
+1019	Gumshoos	f	1	Normal		110	60	88	45	55	60	Stakeout	Strong Jaw
+1020	Vikavolt	f	1	Bug	Electric	70	90	77	43	145	75	Levitate	Levitate
+1021	Oricorio	f	1	Electric	Flying	70	70	75	93	98	70	Dancer	Dancer
+1022	Oricorio	f	1	Psychic	Flying	70	70	75	93	98	70	Dancer	Dancer
+1023	Oricorio	f	1	Ghost	Flying	70	70	75	93	98	70	Dancer	Dancer
+1024	Lycanroc	f	1	Rock		115	75	85	82	55	75	Keen Eye	Vital Spirit
+1025	Wishiwashi	f	1	Water		140	130	45	30	140	135	Schooling	Schooling
+1026	Lurantis	f	1	Grass		105	90	70	45	80	90	Leaf Guard	Leaf Guard
+1027	Salazzle	f	1	Poison	Fire	64	60	68	117	111	60	Corrosion	Corrosion
+1028	Silvally	f	1	Fighting		95	95	95	95	95	95	RKS System	RKS System
+1029	Silvally	f	1	Flying		95	95	95	95	95	95	RKS System	RKS System
+1030	Silvally	f	1	Poison		95	95	95	95	95	95	RKS System	RKS System
+1031	Silvally	f	1	Ground		95	95	95	95	95	95	RKS System	RKS System
+1032	Silvally	f	1	Rock		95	95	95	95	95	95	RKS System	RKS System
+1033	Silvally	f	1	Bug		95	95	95	95	95	95	RKS System	RKS System
+1034	Silvally	f	1	Ghost		95	95	95	95	95	95	RKS System	RKS System
+1035	Silvally	f	1	Steel		95	95	95	95	95	95	RKS System	RKS System
+1036	Silvally	f	1	Fire		95	95	95	95	95	95	RKS System	RKS System
+1037	Silvally	f	1	Water		95	95	95	95	95	95	RKS System	RKS System
+1038	Silvally	f	1	Grass		95	95	95	95	95	95	RKS System	RKS System
+1039	Silvally	f	1	Electric		95	95	95	95	95	95	RKS System	RKS System
+1040	Silvally	f	1	Psychic		95	95	95	95	95	95	RKS System	RKS System
+1041	Silvally	f	1	Ice		95	95	95	95	95	95	RKS System	RKS System
+1042	Silvally	f	1	Dragon		95	95	95	95	95	95	RKS System	RKS System
+1043	Silvally	f	1	Dark		95	95	95	95	95	95	RKS System	RKS System
+1044	Silvally	f	1	Fairy		95	95	95	95	95	95	RKS System	RKS System
+1045	Minior	f	1	Rock	Flying	60	100	60	60	60	100	Shields Down	Shields Down
+1046	Minior	f	1	Rock	Flying	60	100	60	60	60	100	Shields Down	Shields Down
+1047	Minior	f	1	Rock	Flying	60	100	60	60	60	100	Shields Down	Shields Down
+1048	Minior	f	1	Rock	Flying	60	100	60	60	60	100	Shields Down	Shields Down
+1049	Minior	f	1	Rock	Flying	60	100	60	60	60	100	Shields Down	Shields Down
+1050	Minior	f	1	Rock	Flying	60	100	60	60	60	100	Shields Down	Shields Down
+1051	Minior	f	1	Rock	Flying	100	60	60	120	100	60	Shields Down	Shields Down
+1052	Minior	f	1	Rock	Flying	100	60	60	120	100	60	Shields Down	Shields Down
+1053	Minior	f	1	Rock	Flying	100	60	60	120	100	60	Shields Down	Shields Down
+1054	Minior	f	1	Rock	Flying	100	60	60	120	100	60	Shields Down	Shields Down
+1055	Minior	f	1	Rock	Flying	100	60	60	120	100	60	Shields Down	Shields Down
+1056	Minior	f	1	Rock	Flying	100	60	60	120	100	60	Shields Down	Shields Down
+1057	Minior	f	1	Rock	Flying	100	60	60	120	100	60	Shields Down	Shields Down
+1058	Mimikyu	f	1	Ghost	Fairy	100	60	60	120	100	60	Disguise	Disguise
+1059	Mimikyu	f	1	Ghost	Fairy	100	60	60	120	100	60	Disguise	Disguise
+1060	Mimikyu	f	1	Ghost	Fairy	100	60	60	120	100	60	Disguise	Disguise
+1061	Kommo-o	f	1	Dragon	Fighting	110	125	75	85	100	105	Bulletproof	Soundproof
+1062	Magearna	f	1	Steel	Fairy	95	115	80	65	130	115	Soul-Heart	Soul-Heart
+805	Charizard	f	1	Fire	Dragon	130	111	100	100	130	85	Tough Claws	
+806	Charizard	f	1	Fire	Flying	104	78	100	100	159	115	Drought	
+\.
+
+

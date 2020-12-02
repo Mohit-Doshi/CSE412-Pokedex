@@ -1,0 +1,31 @@
+CREATE TABLE games (
+  title varchar(255) PRIMARY KEY,
+  year integer
+);
+
+CREATE TABLE evolutions (
+  firstPokedexID varchar(255),
+  secondPoxedexId varchar(255),
+  thirdPoxedexId varchar(255)
+);
+
+CREATE TABLE pokemonImages (
+  name varchar(255) PRIMARY KEY,
+  imagePath varchar(255),
+);
+
+CREATE TABLE Pokemon (
+  pokedexID integer PRIMARY KEY,
+  name varchar(255) NOT NULL,
+  isLegendary boolean,
+  generation integer,
+  type1 varchar(255) NOT NULL,
+  type2 varchar(255),
+  attack integer,
+  defense integer,
+  hp integer,
+  speed integer,
+  sp_attack integer,
+  sp_defense integer
+  abilities varchar(255)
+);
