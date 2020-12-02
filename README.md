@@ -4,7 +4,7 @@ Fall 2020 CSE 412 Group 16's Project
 **Group 16 Members**: Connor Richards, Eric Peterson, Justin Gabriel De Ocampo, Michelle Staskauskas, Mohit Doshi, Parker Hoang
 
 ## Instructions to run the application
-1. Clone the repoistory from *master*
+1. Clone the repository from *master*
 2. Open a terminal window and `cd` into `/backend`
 3. Run `npm install`
 4. Run `npm start`, and keep this terminal window running
