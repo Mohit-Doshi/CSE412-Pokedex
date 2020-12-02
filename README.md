@@ -18,3 +18,6 @@ Fall 2020 CSE 412 Group 16's Project
 * The application code is available under the `/frontend/pokedex` and `/backend` folders
 * The PostgreSQL database the application queries is hosted on AWS's **RDS** service
 * A database dump is available under the `/database/pokedex-dump` directory
+
+## Final Project Video
+https://www.youtube.com/watch?v=bYYixcqor-Y
